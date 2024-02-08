@@ -1,11 +1,12 @@
 _CableClubNPCPleaseComeAgainText::
-	text "Please come again!"
+	text "Zapraszamy"
+	line "ponownie!"
 	done
 
 _CableClubNPCMakingPreparationsText::
-	text "We're making"
-	line "preparations."
-	cont "Please wait."
+	text "Jesteśmy w trakcie"
+	line "przygotowań."
+	cont "Proszę czekać."
 	done
 
 _UsedStrengthText::
@@ -16,50 +17,52 @@ _UsedStrengthText::
 
 _CanMoveBouldersText::
 	text_ram wcd6d
-	text " can"
-	line "move boulders."
+	text " może"
+	line "przesuwać głazy."
 	prompt
 
 _CurrentTooFastText::
-	text "The current is"
-	line "much too fast!"
+	text "Prąd jest za"
+	line "szybki!"
 	prompt
 
 _CyclingIsFunText::
-	text "Cycling is fun!"
-	line "Forget SURFing!"
+	text "Rowery są fajne!"
+	line "Zapomnij o"
+	cont "SURFOWANIU!"
 	prompt
 
 _FlashLightsAreaText::
-	text "A blinding FLASH"
-	line "lights the area!"
+	text "FLASH rozświetla"
+	line "cały obszar!"
 	prompt
 
 _WarpToLastPokemonCenterText::
-	text "Warp to the last"
-	line "#MON CENTER."
+	text "Przenoszenie do"
+	line "ostatniego"
+	cont "CENTRUM #MON."
 	done
 
 _CannotUseTeleportNowText::
 	text_ram wcd6d
-	text " can't"
-	line "use TELEPORT now."
+	text " nie"
+	line "może tutaj użyć"
+	cont "TELEPORTACJI."
 	prompt
 
 _CannotFlyHereText::
 	text_ram wcd6d
-	text " can't"
-	line "FLY here."
+	text " nie"
+	line "może tutaj LATAĆ."
 	prompt
 
 _NotHealthyEnoughText::
-	text "Not healthy"
-	line "enough."
+	text "Za mało zdrowia."
 	prompt
 
 _NewBadgeRequiredText::
-	text "Nie! A new BADGE"
-	line "is required."
+	text "Nie! Wymagana"
+	line "nowa ODZNAKA."
 	prompt
 
 _CannotUseItemsHereText::
@@ -73,7 +76,7 @@ _CannotGetOffHereText::
 	prompt
 
 _GotMonText::
-	text "<PLAYER> dostaje"
+	text "<PLAYER> otrzymuje"
 	line "@"
 	text_ram wcd6d
 	text "!@"
