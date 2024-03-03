@@ -1,67 +1,67 @@
 _CeladonMansion3FProgrammerText::
-	text "Me? I'm the"
-	line "programmer!"
+	text "Ja? Jestem"
+	line "programistą!"
 	done
 
 _CeladonMansion3FGraphicArtistText::
-	text "I'm the graphic"
-	line "artist!"
-	cont "I drew you!"
+	text "Jestem grafikiem!"
+	line "Narysowałem cię!"
 	done
 
 _CeladonMansion3FWriterText::
-	text "I wrote the story!"
-	line "Isn't ERIKA cute?"
+	text "Stworzyłem fabułę!"
+	line "Czyż ERIKA nie"
+	cont "jest słodka?"
 
-	para "I like MISTY a"
-	line "lot too!"
+	para "Bardzo lubię"
+	line "MISTY!"
 
-	para "Oh, and SABRINA,"
-	line "I like her!"
+	para "Och, i SABRINĘ,"
+	line "też ją lubię!"
 	done
 
 _CeladonMansion3FGameDesignerText::
-	text "Is that right?"
+	text "Czy to prawda?"
 
-	para "I'm the game"
-	line "designer!"
+	para "Jestem"
+	line "projektantem gry!"
 
-	para "Filling up your"
-	line "#DEX is tough,"
-	cont "but don't quit!"
+	para "Wypełnianie"
+	line "#DEXU jest"
+	cont "trudne, ale nie"
+	cont "podawaj się!"
 
-	para "When you finish,"
-	line "come tell me!"
+	para "Gdy już skończysz,"
+	line "powiedz mi!"
 	done
 
 _CeladonMansion3FGameDesignerCompletedDexText::
-	text "Wow! Excellent!"
-	line "You completed"
-	cont "your #DEX!"
-	cont "Congratulations!"
+	text "Łał! Doskonale!"
+	line "Skompletowałeś"
+	cont "swój #DEX!"
+	cont "Gratulacje!"
 	cont "...@"
 	text_end
 
 _CeladonMansion3FGameProgramPCText::
-	text "It's the game"
-	line "program! Messing"
-	cont "with it could bug"
-	cont "out the game!"
+	text "To program gry!"
+	line "Grzebanie w nim"
+	cont "może spowodować"
+	cont "błąd w grze!"
 	done
 
 _CeladonMansion3FPlayingGamePCText::
-	text "Someone's playing"
-	line "a game instead of"
-	cont "working!"
+	text "Ktoś gra zamiast"
+	line "pracować!"
 	done
 
 _CeladonMansion3FGameScriptPCText::
-	text "It's the script!"
-	line "Better not look"
-	cont "at the ending!"
+	text "To jest skrypt!"
+	line "Lepiej nie patrz"
+	cont "na zakończenie!"
 	done
 
 _CeladonMansion3FDevRoomSignText::
 	text "GAME FREAK"
-	line "Development Room"
+	line "Pokój Rozwoju"
 	done

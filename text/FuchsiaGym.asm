@@ -1,26 +1,25 @@
 _FuchsiaGymKogaBeforeBattleText::
-	text "KOGA: Fwahahaha!"
+	text "KOGA: Łahahaha!"
 
-	para "A mere child like"
-	line "you dares to"
-	cont "challenge me?"
+	para "Taki dzieciak jak"
+	line "ty śmie rzucać mi"
+	cont "wyzwanie?"
 
-	para "Very well, I"
-	line "shall show you"
-	cont "true terror as a"
-	cont "ninja master!"
+	para "No dobrze, pokażę"
+	line "ci prawdziwy"
+	cont "terror jako mistrz"
+	cont "ninja!"
 
-	para "You shall feel"
-	line "the despair of"
-	cont "poison and sleep"
-	cont "techniques!"
+	para "Poczujesz rozpacz"
+	line "techniki trucizny"
+	cont "i snu!"
 	done
 
 _FuchsiaGymKogaReceivedSoulBadgeText::
 	text "Humph!"
-	line "You have proven"
-	cont "your worth!"
+	line "Udowodniłeś swoją"
+	cont "wartość!"
 
-	para "Here! Take the"
-	line "SOULBADGE!"
+	para "Proszę! Weź tę"
+	line "ODZNAKĘ DUSZY!"
 	prompt

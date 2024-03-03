@@ -3,11 +3,13 @@ _CeladonMansion1FMeowthText::
 	text_end
 
 _CeladonMansion1FGrannyText::
-	text "My dear #MON"
-	line "keep me company."
+	text "Moje #MONY"
+	line "dotrzymują mi"
+	cont "towarzystwa."
 
-	para "MEOWTH even brings"
-	line "money home!"
+	para "MEOWTH przynosi"
+	line "nawet pieniądze do"
+	cont "domu!"
 	done
 
 _CeladonMansion1FClefairyText::
@@ -21,6 +23,9 @@ _CeladonMansion1FNidoranFText::
 	text_end
 
 _CeladonMansion1FManagersSuiteSignText::
-	text "CELADON MANSION"
-	line "Manager's Suite"
+	text "REZYDENCJA"
+	line "PRYZMANII"
+
+	para "Apartament"
+	line "Menedżera"
 	done

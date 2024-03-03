@@ -8,7 +8,7 @@ _ItemUseText002::
 	done
 
 _GotOnBicycleText1::
-	text "<PLAYER> got on the@"
+	text "<PLAYER> wsiada na@"
 	text_end
 
 _GotOnBicycleText2::
@@ -17,64 +17,64 @@ _GotOnBicycleText2::
 	prompt
 
 _GotOffBicycleText1::
-	text "<PLAYER> got off@"
+	text "<PLAYER> wysiada@"
 	text_end
 
 _GotOffBicycleText2::
-	text "the @"
+	text "z @"
 	text_ram wStringBuffer
 	text "."
 	prompt
 
 _ThrewAwayItemText::
-	text "Threw away"
+	text "Wyrzucono"
 	line "@"
 	text_ram wcd6d
 	text "."
 	prompt
 
 _IsItOKToTossItemText::
-	text "Is it OK to toss"
+	text "Na pewno wyrzucić"
 	line "@"
 	text_ram wStringBuffer
 	text "?"
 	prompt
 
 _TooImportantToTossText::
-	text "That's too impor-"
-	line "tant to toss!"
+	text "To zbyt ważne, by"
+	line "wyrzucić!"
 	prompt
 
 _AlreadyKnowsText::
 	text_ram wcd6d
-	text " knows"
+	text " zna już"
 	line "@"
 	text_ram wStringBuffer
 	text "!"
 	prompt
 
-_ConnectCableText::
-	text "Okay, connect the"
-	line "cable like so!"
+_ConnectCableText:: ; sprawdź
+	text "OK, podłącz kabel"
+	line "w ten sposób!"
 	prompt
 
 _TradedForText::
-	text "<PLAYER> traded"
+	text "<PLAYER> wymienia"
 	line "@"
 	text_ram wInGameTradeGiveMonName
-	text " for"
+	text " na"
 	cont "@"
 	text_ram wInGameTradeReceiveMonName
 	text "!@"
 	text_end
 
 _WannaTrade1Text::
-	text "I'm looking for"
+	text "Właśnie szukam"
 	line "@"
 	text_ram wInGameTradeGiveMonName
-	text "! Wanna"
+	text "! Może"
 
-	para "trade one for"
+	para "wymienisz na"
 	line "@"
 	text_ram wInGameTradeReceiveMonName
 	text "? "
@@ -91,8 +91,8 @@ _WrongMon1Text::
 	text_ram wInGameTradeGiveMonName
 	text "!"
 
-	para "If you get one,"
-	line "come back here!"
+	para "Jeśli go złapiesz,"
+	line "przyjdź do mnie!"
 	done
 
 _Thanks1Text::
@@ -100,37 +100,38 @@ _Thanks1Text::
 	done
 
 _AfterTrade1Text::
-	text "Isn't my old"
+	text "Czy mój stary"
 	line "@"
 	text_ram wInGameTradeReceiveMonName
-	text " great?"
+	text " nie"
+	cont "jest super?"
 	done
 
 _WannaTrade2Text::
-	text "Hello there! Do"
-	line "you want to trade"
+	text "Cześć! Czy chcesz"
+	line "wymienić swojego"
 
-	para "your @"
+	para "@"
 	text_ram wInGameTradeGiveMonName
 	text_start
-	line "for @"
+	line "na @"
 	text_ram wInGameTradeReceiveMonName
 	text "?"
 	done
 
 _NoTrade2Text::
-	text "Well, if you"
-	line "don't want to..."
+	text "Cóż, skoro nie"
+	line "chcesz..."
 	done
 
 _WrongMon2Text::
-	text "Hmmm? This isn't"
+	text "Hmmm? To nie jest"
 	line "@"
 	text_ram wInGameTradeGiveMonName
 	text "."
 
-	para "Think of me when"
-	line "you get one."
+	para "Pomyśl o mnie, gdy"
+	line "go złapiesz."
 	done
 
 _Thanks2Text::
@@ -138,38 +139,37 @@ _Thanks2Text::
 	done
 
 _AfterTrade2Text::
-	text "The @"
+	text "Cześć! Twój stary"
+	line "@"
 	text_ram wInGameTradeGiveMonName
-	text " you"
-	line "traded to me"
-
-	para "went and evolved!"
+	text " jest"
+	cont "wspaniały!"
 	done
 
 _WannaTrade3Text::
-	text "Hi! Do you have"
+	text "Hej! Masz może"
 	line "@"
 	text_ram wInGameTradeGiveMonName
 	text "?"
 
-	para "Want to trade it"
-	line "for @"
+	para "Chcesz wymienić go"
+	line "na @"
 	text_ram wInGameTradeReceiveMonName
 	text "?"
 	done
 
 _NoTrade3Text::
-	text "That's too bad."
+	text "No to szkoda."
 	done
 
 _WrongMon3Text::
-	text "...This is no"
+	text "...To nie jest"
 	line "@"
 	text_ram wInGameTradeGiveMonName
 	text "."
 
-	para "If you get one,"
-	line "trade it with me!"
+	para "Jeśli go złapiesz,"
+	line "wymień się ze mną!"
 	done
 
 _Thanks3Text::
@@ -177,24 +177,24 @@ _Thanks3Text::
 	done
 
 _AfterTrade3Text::
-	text "How is my old"
+	text "Jak tam mój stary"
 	line "@"
 	text_ram wInGameTradeReceiveMonName
 	text "?"
 
-	para "My @"
+	para "Mój @"
 	text_ram wInGameTradeGiveMonName
-	text " is"
-	line "doing great!"
+	text " ma"
+	line "się świetnie!"
 	done
 
 _NothingToCutText::
-	text "There isn't"
-	line "anything to CUT!"
+	text "Nie ma tu nic do"
+	line "ŚCIĘCIA!"
 	prompt
 
 _UsedCutText::
 	text_ram wcd6d
-	text " hacked"
-	line "away with CUT!"
+	text " używa"
+	line "CIĘCIA!"
 	prompt
