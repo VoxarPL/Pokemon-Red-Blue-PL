@@ -1,55 +1,51 @@
 _SilphCo5FRockerEndBattleText::
-	text "Oh"
-	line "goodness!"
+	text "O rany!"
 	prompt
 
 _SilphCo5FRockerAfterBattleText::
-	text "You're only on 5F."
-	line "It's a long way"
-	cont "to my BOSS!"
+	text "Jesteś dopiero na"
+	line "5P. Długa droga"
+	cont "do mojego SZEFA!"
 	done
 
 _SilphCo5FRocket2BattleText::
-	text "Show TEAM ROCKET"
-	line "a little respect!"
+	text "Okaż ZESPOŁOWI R"
+	line "trochę szacunku!"
 	done
 
 _SilphCo5FRocket2EndBattleText::
-	text "Cough..."
-	line "Cough..."
+	text "Kaszel... Kaszel..."
 	prompt
 
 _SilphCo5FRocket2AfterBattleText::
-	text "Which reminds me."
+	text "To mi przypomina."
 
-	para "KOFFING evolves"
-	line "into WEEZING!"
+	para "KOFFING ewoluuje w"
+	line "WEEZINGA!"
 	done
 
 _SilphCo5FPokemonReport1Text::
-	text "It's a #MON"
-	line "REPORT!"
+	text "To RAPORT #MON!"
 
-	para "#MON LAB"
-	line "created PORYGON,"
-	cont "the first virtual"
-	cont "reality #MON."
+	para "LABORATORIUM"
+	line "#MON stworzyło"
+	cont "PORYGONA, #MONA"
+	cont "wirtualnej"
+	cont "rzeczywistości."
 	done
 
 _SilphCo5FPokemonReport2Text::
-	text "It's a #MON"
-	line "REPORT!"
+	text "To RAPORT #MON!"
 
-	para "Over 160 #MON"
-	line "techniques have"
-	cont "been confirmed."
+	para "Potwierdzono ponad"
+	line "160 technik"
+	cont "#MONÓW."
 	done
 
 _SilphCo5FPokemonReport3Text::
-	text "It's a #MON"
-	line "REPORT!"
+	text "To RAPORT #MON!"
 
-	para "4 #MON evolve"
-	line "only when traded"
-	cont "by link-cable."
+	para "Cztery #MONY"
+	line "ewoluują tylko"
+	cont "podczas wymiany."
 	done

@@ -1,21 +1,20 @@
 _VermilionGymLTSurgePreBattleText::
-	text "Hey, kid! What do"
-	line "you think you're"
-	cont "doing here?"
+	text "Hej, mały! Co ty"
+	line "tu niby robisz?"
 
-	para "You won't live"
-	line "long in combat!"
-	cont "That's for sure!"
+	para "Nie pożyjesz"
+	line "długo w walce!"
+	cont "To pewne!"
 
-	para "I tell you kid,"
-	line "electric #MON"
-	cont "saved me during"
-	cont "the war!"
+	para "Mówię ci, młody,"
+	line "elektryczne"
+	cont "#MONY uratowały"
+	cont "mnie podczas"
+	cont "wojny!"
 
-	para "They zapped my"
-	line "enemies into"
-	cont "paralysis!"
+	para "Sparaliżowali"
+	line "moich wrogów!"
 
-	para "The same as I'll"
-	line "do to you!"
+	para "To samo zrobię z"
+	line "tobą!"
 	done

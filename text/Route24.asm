@@ -1,67 +1,68 @@
 _Route24CooltrainerM1YouBeatOurContestText::
-	text "Congratulations!"
-	line "You beat our 5"
-	cont "contest trainers!@"
+	text "Gratulacje!"
+	line "Pokonałeś 5"
+	cont "naszych trenerów!@"
 	text_end
 
 _Route24CooltrainerM1YouJustEarnedAPrizeText::
 	text_start
 
-	para "You just earned a"
-	line "fabulous prize!"
+	para "Właśnie wygrałem"
+	line "wspaniałą nagrodę!"
 	prompt
 
 _Route24CooltrainerM1ReceivedNuggetText::
-	text "<PLAYER> received"
-	line "a @"
+	text "<PLAYER> otrzymuje"
+	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _Route24CooltrainerM1NoRoomText::
-	text "You don't have"
-	line "any room!"
+	text "Nie masz już"
+	line "miejsca!"
 	done
 
 _Route24CooltrainerM1JoinTeamRocketText::
-	text "By the way, would"
-	line "you like to join"
-	cont "TEAM ROCKET?"
+	text "Przy okazji, czy"
+	line "chciałbyś dołączyć"
+	cont "do ZESPOŁU R?"
 
-	para "We're a group"
-	line "dedicated to evil"
-	cont "using #MON!"
+	para "Jesteśmy grupą"
+	line "poświęconą złu"
+	cont "wykorzystując"
+	cont "#MONY!"
 
-	para "Want to join?"
+	para "Chcesz dołączyć?"
 
-	para "Are you sure?"
+	para "Jesteś pewny?"
 
-	para "Come on, join us!"
+	para "No dalej, dołącz!"
 
-	para "I'm telling you"
-	line "to join!"
+	para "Mówię ci, żebyś"
+	line "dołączył!"
 
-	para "OK, you need"
-	line "convincing!"
+	para "OK, trzeba cię"
+	line "przekonać!"
 
-	para "I'll make you an"
-	line "offer you can't"
-	cont "refuse!"
+	para "Złożę ci ofertę"
+	line "nie do odrzucenia!"
 	done
 
 _Route24CooltrainerM1DefeatedText::
-	text "Arrgh!"
-	line "You are good!"
+	text "Arrch!"
+	line "Dobry jesteś!"
 	prompt
 
 _Route24CooltrainerM1YouCouldBecomeATopLeaderText::
-	text "With your ability,"
-	line "you could become"
-	cont "a top leader in"
-	cont "TEAM ROCKET!"
+	text "Z takimi"
+	line "umiejętnościami"
+	cont "możesz zostać"
+	cont "najlepszym liderem"
+	cont "w ZESPOLE R!"
 	done
 
 _Route24CooltrainerM2BattleText::
-	text "I saw your feat"
-	line "from the grass!"
+	text "Widziałem twój"
+	line "wyczyn z trawy!"
 	done

@@ -1,51 +1,53 @@
 _SilphCo5FSilphWorkerMThatsYouRightText::
-	text "TEAM ROCKET is"
-	line "in an uproar over"
-	cont "some intruder."
-	cont "That's you right?"
+	text "ZESPÓŁ R wściekł"
+	line "się z powodu"
+	cont "jakiegoś intruza."
+	cont "To ty, prawda?"
 	done
 
 _SilphCo5FSilphWorkerMYoureOurHeroText::
-	text "TEAM ROCKET took"
-	line "off! You're our"
-	cont "hero! Thank you!"
+	text "ZESPÓŁ R odleciał!"
+	line "Jesteś naszym"
+	cont "bohaterem!"
+	cont "Dziękuję!"
 	done
 
 _SilphCo5FRocket1BattleText::
-	text "I heard a kid was"
-	line "wandering around."
+	text "Słyszałem, że"
+	line "błąka się tu jakiś"
+	cont "dzieciak."
 	done
 
 _SilphCo5FRocket1EndBattleText::
-	text "Boom!"
+	text "Bum!"
 	prompt
 
 _SilphCo5FRocket1AfterBattleText::
-	text "It's not smart"
-	line "to pick a fight"
-	cont "with TEAM ROCKET!"
+	text "Nie jest mądrze"
+	line "wdawać się w bójkę"
+	cont "z ZESPOŁEM R!"
 	done
 
 _SilphCo5FScientistBattleText::
-	text "We study #"
-	line "BALL technology"
-	cont "on this floor!"
+	text "Na tym piętrze"
+	line "badamy technologię"
+	cont "# BALLI!"
 	done
 
 _SilphCo5FScientistEndBattleText::
-	text "Dang!"
-	line "Blast it!"
+	text "Kurde!"
+	line "Niech to szlag!"
 	prompt
 
 _SilphCo5FScientistAfterBattleText::
-	text "We worked on the"
-	line "ultimate #"
-	cont "BALL which would"
-	cont "catch anything!"
+	text "Pracowaliśmy nad"
+	line "ostatecznym #"
+	cont "BALLEM, który"
+	cont "złapie wszystko!"
 	done
 
 _SilphCo5FRockerBattleText::
-	text "Whaaat? There"
-	line "shouldn't be any"
-	cont "children here?"
+	text "Cooo? Tu nie"
+	line "powinno być"
+	cont "żadnych dzieci!"
 	done

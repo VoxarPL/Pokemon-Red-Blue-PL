@@ -1,69 +1,68 @@
 _VermilionCityBeautyText::
-	text "We're careful"
-	line "about pollution!"
+	text "Uważamy na"
+	line "zanieczyszczenia!"
 
-	para "We've heard GRIMER"
-	line "multiplies in"
-	cont "toxic sludge!"
+	para "Słyszeliśmy, że"
+	line "GRIMER rozmnaża"
+	cont "się w toksycznym"
+	cont "szlamie!"
 	done
 
 _VermilionCityGambler1DidYouSeeText::
-	text "Did you see S.S."
-	line "ANNE moored in"
-	cont "the harbor?"
+	text "Widziałeś S.S.ANNA"
+	line "zacumowany w"
+	cont "porcie?"
 	done
 
 _VermilionCityGambler1SSAnneDepartedText::
-	text "So, S.S.ANNE has"
-	line "departed!"
+	text "A więc S.S.ANNA"
+	line "odpłynął!"
 
-	para "She'll be back in"
-	line "about a year."
+	para "Wróci za jakiś"
+	line "rok."
 	done
 
 _VermilionCitySailor1WelcomeToSSAnneText::
-	text "Welcome to S.S."
-	line "ANNE!"
+	text "Witamy S.S.ANNA!"
 	done
 
 _VermilionCitySailor1DoYouHaveATicketText::
-	text "Welcome to S.S."
-	line "ANNE!"
+	text "Witamy S.S.ANNA!"
 
-	para "Excuse me, do you"
-	line "have a ticket?"
+	para "Przepraszam, czy"
+	line "ma pan bilet?"
 	prompt
 
 _VermilionCitySailor1FlashedTicketText::
-	text "<PLAYER> flashed"
-	line "the S.S.TICKET!"
+	text "<PLAYER> pokazał"
+	line "BILET NA PROM!"
 
-	para "Great! Welcome to"
-	line "S.S.ANNE!"
+	para "Świetnie! Witaj na"
+	line "S.S.ANNA!"
 	done
 
 _VermilionCitySailor1YouNeedATicketText::
-	text "<PLAYER> doesn't"
-	line "have the needed"
-	cont "S.S.TICKET."
+	text "<PLAYER> nie ma"
+	line "wymaganego BILETU"
+	cont "NA PROM."
 
-	para "Sorry!"
+	para "Wybacz!"
 
-	para "You need a ticket"
-	line "to get aboard."
+	para "Aby wejść na"
+	line "pokład, musisz"
+	cont "posiadać bilet."
 	done
 
 _VermilionCitySailor1ShipSetSailText::
-	text "The ship set sail."
+	text "Statek wypłynął."
 	done
 
 _VermilionCityGambler2Text::
-	text "I'm putting up a"
-	line "building on this"
-	cont "plot of land."
+	text "Stawiam budynek na"
+	line "tej działce."
 
-	para "My #MON is"
-	line "tamping the land."
+	para "Mój #MON ubija"
+	line "ziemię."
 	done
 
 _VermilionCityMachopText::
@@ -73,55 +72,55 @@ _VermilionCityMachopText::
 
 _VermilionCityMachopStompingTheLandFlatText::
 	text_start
-	para "A MACHOP is"
-	line "stomping the land"
-	cont "flat."
+	para "MACHOP stąpa po"
+	line "ziemi."
 	done
 
 _VermilionCitySailor2Text::
-	text "S.S.ANNE is a"
-	line "famous luxury"
-	cont "cruise ship."
+	text "S.S.ANNA to słynny"
+	line "luksusowy statek"
+	cont "wycieczkowy."
 
-	para "We visit VERMILION"
-	line "once a year."
+	para "Odwiedzamy ORANIĘ"
+	line "raz w roku."
 	done
 
 _VermilionCitySignText::
-	text "VERMILION CITY"
-	line "The Port of"
-	cont "Exquisite Sunsets"
+	text "ORANIA"
+	line "Port Przepięknych"
+	cont "Zachodów Słońca"
 	done
 
 _VermilionCityNoticeSignText::
-	text "NOTICE!"
+	text "UWAGA!"
 
-	para "ROUTE 12 may be"
-	line "blocked off by a"
-	cont "sleeping #MON."
+	para "DROGA 12 może być"
+	line "zablokowana przez"
+	cont "śpiącego #MONA."
 
-	para "Detour through"
-	line "ROCK TUNNEL to"
-	cont "LAVENDER TOWN."
+	para "Przejdź przez"
+	line "KAMIENNY TUNEL do"
+	cont "LAWANDII."
 
-	para "VERMILION POLICE"
+	para "POLICJA ORANII"
 	done
 
 _VermilionCityPokemonFanClubSignText::
-	text "#MON FAN CLUB"
-	line "All #MON fans"
-	cont "welcome!"
+	text "FANKLUB #MON"
+	line "Wszyscy fani"
+	cont "#MONÓW mile"
+	cont "widziani!"
 	done
 
 _VermilionCityGymSignText::
-	text "VERMILION CITY"
-	line "#MON GYM"
-	cont "LEADER: LT.SURGE"
+	text "ORANIA"
+	line "SALA #MON"
+	cont "LIDER: POR.SURGE"
 
-	para "The Lightning "
-	line "American!"
+	para "Amerykańska"
+	line "Błyskawica!"
 	done
 
 _VermilionCityHarborSignText::
-	text "VERMILION HARBOR"
+	text "PORT ORANII"
 	done
