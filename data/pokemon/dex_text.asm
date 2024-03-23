@@ -1,1509 +1,1509 @@
 _RhydonDexEntry::
-	text "Protected by an"
-	next "armor-like hide,"
-	next "it is capable of"
+	text "Chroniony przez"
+	next "pancerną skórę,"
+	next "jest w stanie żyć"
 
-	page "living in molten"
-	next "lava of 3,600"
-	next "degrees"
+	page "w stopionej lawie"
+	next "o temperaturze"
+	next "3 600 stopni"
 	dex
 
 _KangaskhanDexEntry::
-	text "The infant rarely"
-	next "ventures out of"
-	next "its mother's"
+	text "Niemowlę rzadko"
+	next "wychodzi z torby"
+	next "ochronnej swojej"
 
-	page "protective pouch"
-	next "until it is 3"
-	next "years old"
+	page "matki, dopóki nie"
+	next "osiągnie wieku 3"
+	next "lat"
 	dex
 
 _NidoranMDexEntry::
-	text "Stiffens its ears"
-	next "to sense danger."
-	next "The larger its"
+	text "Usztywnia uszy, by"
+	next "wyczuć zagrożenie."
+	next "Im większe rogi,"
 
-	page "horns, the more"
-	next "powerful its"
-	next "secreted venom"
+	page "tym silniejszy"
+	next "jest jego"
+	next "wydzielany jad"
 	dex
 
 _ClefairyDexEntry::
-	text "Its magical and"
-	next "cute appeal has"
-	next "many admirers."
+	text "Jego magiczny i"
+	next "uroczy urok ma"
+	next "wielu wielbicieli."
 
-	page "It is rare and"
-	next "found only in"
-	next "certain areas"
+	page "Jest rzadki i"
+	next "występuje tylko w"
+	next "pewnych miejscach"
 	dex
 
 _SpearowDexEntry::
-	text "Eats bugs in"
-	next "grassy areas. It"
-	next "has to flap its"
+	text "Żywi się robakami."
+	next "Musi machać"
+	next "skrzydłami z dużą"
 
-	page "short wings at"
-	next "high speed to"
-	next "stay airborne"
+	page "prędkością, aby"
+	next "utrzymać się w"
+	next "powietrzu"
 	dex
 
 _VoltorbDexEntry::
-	text "Usually found in"
-	next "power plants."
-	next "Easily mistaken"
+	text "Zwykle występują w"
+	next "elektrowniach."
+	next "Łatwo mylone z"
 
-	page "for a # BALL,"
-	next "they have zapped"
-	next "many people"
+	page "# BALLEM, przez"
+	next "co porażają wiele"
+	next "osób"
 	dex
 
 _NidokingDexEntry::
-	text "It uses its"
-	next "powerful tail in"
-	next "battle to smash,"
+	text "Podczas walki"
+	next "używa potężnego"
+	next "ogona, aby"
 
-	page "constrict, then"
-	next "break the prey's"
-	next "bones"
+	page "zmiażdżyć, udusić,"
+	next "a następnie złamać"
+	next "kości ofiary"
 	dex
 
 _SlowbroDexEntry::
-	text "The SHELLDER that"
-	next "is latched onto"
-	next "SLOWPOKE's tail"
+	text "SHELLDER, który"
+	next "przyczepił się do"
+	next "ogona SLOWPOKE'A,"
 
-	page "is said to feed"
-	next "on the host's left"
-	next "over scraps"
+	page "żywi się resztkami"
+	next "jedzenia swojego"
+	next "gospodarza"
 	dex
 
 _IvysaurDexEntry::
-	text "When the bulb on"
-	next "its back grows"
-	next "large, it appears"
+	text "Kiedy bulwa na"
+	next "plecach rośnie,"
+	next "wydaje się tracić"
 
-	page "to lose the"
-	next "ability to stand"
-	next "on its hind legs"
+	page "zdolność do stania"
+	next "na swoich tylnych"
+	next "nogach"
 	dex
 
 _ExeggutorDexEntry::
-	text "Legend has it that"
-	next "on rare occasions,"
-	next "one of its heads"
+	text "Legenda głosi, że"
+	next "w rzadkich"
+	next "przypadkach jedna"
 
-	page "will drop off and"
-	next "continue on as an"
-	next "EXEGGCUTE"
+	page "z głów spadnie i"
+	next "będzie żyć dalej"
+	next "jako EXEGGCUTE"
 	dex
 
 _LickitungDexEntry::
-	text "Its tongue can be"
-	next "extended like a"
-	next "chameleon's. It"
+	text "Jego język można"
+	next "wysunąć jak język"
+	next "kameleona."
 
-	page "leaves a tingling"
-	next "sensation when it"
-	next "licks enemies"
+	page "Pozostawia uczucie"
+	next "mrowienia, kiedy"
+	next "liże wrogów"
 	dex
 
 _ExeggcuteDexEntry::
-	text "Often mistaken"
-	next "for eggs."
-	next "When disturbed,"
+	text "Często mylone z"
+	next "jajkami. Kiedy są"
+	next "zaniepokojone,"
 
-	page "they quickly"
-	next "gather and attack"
-	next "in swarms"
+	page "szybko zbierają"
+	next "się i atakują w"
+	next "rojach"
 	dex
 
 _GrimerDexEntry::
-	text "Appears in filthy"
-	next "areas. Thrives by"
-	next "sucking up"
+	text "Żyję w brudnych"
+	next "obszarach. Rozwija"
+	next "się poprzez"
 
-	page "polluted sludge"
-	next "that is pumped"
-	next "out of factories"
+	page "zasysanie szlamu"
+	next "wypompowywanego z"
+	next "fabryk"
 	dex
 
 _GengarDexEntry::
-	text "Under a full moon,"
-	next "this #MON"
-	next "likes to mimic"
+	text "Podczas pełni"
+	next "księżyca #MON"
+	next "ten lubi"
 
-	page "the shadows of"
-	next "people and laugh"
-	next "at their fright"
+	page "naśladować cienie"
+	next "ludzi i śmiać się"
+	next "z ich przerażenia"
 	dex
 
 _NidoranFDexEntry::
-	text "Although small,"
-	next "its venomous"
-	next "barbs render this"
+	text "Chociaż jest mała,"
+	next "jej jadowite kolce"
+	next "sprawiają, że ten"
 
-	page "#MON dangerous."
-	next "The female has"
-	next "smaller horns"
+	page "#MON jest"
+	next "groźny. Samica ma"
+	next "mniejsze rogi"
 	dex
 
 _NidoqueenDexEntry::
-	text "Its hard scales"
-	next "provide strong"
-	next "protection. It"
+	text "Jej twarde łuski"
+	next "zapewniają silną"
+	next "ochronę. Używa"
 
-	page "uses its hefty"
-	next "bulk to execute"
-	next "powerful moves"
+	page "ogromnej masy do"
+	next "wykonywania"
+	next "potężnych ruchów"
 	dex
 
 _CuboneDexEntry::
-	text "Because it never"
-	next "removes its skull"
-	next "helmet, no one"
+	text "Ponieważ nigdy nie"
+	next "zdejmuje swojej"
+	next "czaszki, nikt"
 
-	page "has ever seen"
-	next "this #MON's"
-	next "real face"
+	page "nigdy nie widział"
+	next "prawdziwej twarzy"
+	next "tego #MONA"
 	dex
 
 _RhyhornDexEntry::
-	text "Its massive bones"
-	next "are 1000 times"
-	next "harder than human"
+	text "Jego masywne kości"
+	next "są 1000 razy"
+	next "twardsze niż"
 
-	page "bones. It can"
-	next "easily knock a"
-	next "trailer flying"
+	page "ludzkie. Może z"
+	next "łatwością posłać"
+	next "przyczepę w górę"
 	dex
 
 _LaprasDexEntry::
-	text "A #MON that"
-	next "has been over-"
-	next "hunted almost to"
+	text "#MON, na"
+	next "którego polowano"
+	next "prawie do"
 
-	page "extinction. It"
-	next "can ferry people"
-	next "across the water"
+	page "wyginięcia. Może"
+	next "przewozić ludzi"
+	next "przez wodę"
 	dex
 
 _ArcanineDexEntry::
-	text "A #MON that"
-	next "has been admired"
-	next "since the past"
+	text "#MON, który od"
+	next "dawien dawna był"
+	next "podziwiany za"
 
-	page "for its beauty."
-	next "It runs agilely"
-	next "as if on wings"
+	page "swoje piękno."
+	next "Biega zwinnie, jak"
+	next "na skrzydłach"
 	dex
 
 _MewDexEntry::
-	text "So rare that it"
-	next "is still said to"
-	next "be a mirage by"
+	text "Jest tak rzadki,"
+	next "że wielu ekspertów"
+	next "nadal uważa go za"
 
-	page "many experts. Only"
-	next "a few people have"
-	next "seen it worldwide"
+	page "miraż. Tylko kilka"
+	next "osób widziało go"
+	next "na całym świecie"
 	dex
 
 _GyaradosDexEntry::
-	text "Rarely seen in"
-	next "the wild. Huge"
-	next "and vicious, it"
+	text "Rzadko spotykany"
+	next "na wolności."
+	next "Ogromny i okrutny,"
 
-	page "is capable of"
-	next "destroying entire"
-	next "cities in a rage"
+	page "jest w stanie"
+	next "zniszczyć całe"
+	next "miasta w szale"
 	dex
 
 _ShellderDexEntry::
-	text "Its hard shell"
-	next "repels any kind"
-	next "of attack."
+	text "Twarda skorupa"
+	next "odeprze każdy"
+	next "rodzaj ataku. Jest"
 
-	page "It is vulnerable"
-	next "only when its"
-	next "shell is open"
+	page "wrażliwy na atak,"
+	next "gdy jego skorupa"
+	next "jest otwarta"
 	dex
 
 _TentacoolDexEntry::
-	text "Drifts in shallow"
-	next "seas. Anglers who"
-	next "hook them by"
+	text "Dryfuje w płytkich"
+	next "morzach. Wędkarze,"
+	next "którzy przypadkowo"
 
-	page "accident are"
-	next "often punished by"
-	next "its stinging acid"
+	page "ich zaczepią, są"
+	next "karani przez ich"
+	next "żądlący kwas"
 	dex
 
 _GastlyDexEntry::
-	text "Almost invisible,"
-	next "this gaseous"
-	next "#MON cloaks"
+	text "Jest niemal"
+	next "niewidoczny, ten"
+	next "gazowy #MON"
 
-	page "the target and"
-	next "puts it to sleep"
-	next "without notice"
+	page "obejmuje cel i"
+	next "usypia go bez"
+	next "uprzedzenia"
 	dex
 
 _ScytherDexEntry::
-	text "With ninja-like"
-	next "agility and speed,"
-	next "it can create the"
+	text "Dzięki zwinności i"
+	next "szybkości ninja"
+	next "może stworzyć"
 
-	page "illusion that"
-	next "there is more"
-	next "than one"
+	page "iluzję, że"
+	next "istnieje więcej"
+	next "niż jeden"
 	dex
 
 _StaryuDexEntry::
-	text "An enigmatic"
-	next "#MON that can"
-	next "effortlessly"
+	text "Enigmatyczny"
+	next "#MON, który"
+	next "potrafi bez trudu"
 
-	page "regenerate any"
-	next "appendage it"
-	next "loses in battle"
+	page "zregenerować każdą"
+	next "kończynę, którą"
+	next "straci w walce"
 	dex
 
 _BlastoiseDexEntry::
-	text "A brutal #MON"
-	next "with pressurized"
-	next "water jets on its"
+	text "Brutalny #MON z"
+	next "działami wodnymi"
+	next "pod ciśnieniem na"
 
-	page "shell. They are"
-	next "used for high"
-	next "speed tackles"
+	page "swojej skorupie."
+	next "Służą do szarż z"
+	next "dużą prędkością"
 	dex
 
 _PinsirDexEntry::
-	text "If it fails to"
-	next "crush the victim"
-	next "in its pincers,"
+	text "Jeśli nie uda mu"
+	next "się zmiażdżyć"
+	next "swojej ofiary"
 
-	page "it will swing it"
-	next "around and toss"
-	next "it hard"
+	page "swoimi szczypcami,"
+	next "obróci ją i mocno"
+	next "rzuci"
 	dex
 
 _TangelaDexEntry::
-	text "The whole body is"
-	next "swathed with wide"
-	next "vines that are"
+	text "Całe ciało pokryte"
+	next "jest szerokimi"
+	next "pnączami podobnymi"
 
-	page "similar to sea-"
-	next "weed. Its vines"
-	next "shake as it walks"
+	page "do wodorostów."
+	next "Jego pnącza drżą"
+	next "podczas chodzenia"
 	dex
 
 _GrowlitheDexEntry::
-	text "Very protective"
-	next "of its territory."
-	next "It will bark and"
+	text "Pilnuje swojego"
+	next "terytorium. Będzie"
+	next "szczekać i gryźć,"
 
-	page "bite to repel"
-	next "intruders from"
-	next "its space"
+	page "aby odstraszyć"
+	next "intruzów od"
+	next "swojego obszaru"
 	dex
 
 _OnixDexEntry::
-	text "As it grows, the"
-	next "stone portions of"
-	next "its body harden"
+	text "Gdy rośnie, jego"
+	next "kamienne części"
+	next "twardnieją i stają"
 
-	page "to become similar"
-	next "to a diamond, but"
-	next "colored black"
+	page "się podobne do"
+	next "diamentu, ale"
+	next "robią się czarne"
 	dex
 
 _FearowDexEntry::
-	text "With its huge and"
-	next "magnificent wings,"
-	next "it can keep aloft"
+	text "Dzięki ogromnym i"
+	next "wspaniałym"
+	next "skrzydłom może"
 
-	page "without ever"
-	next "having to land"
-	next "for rest"
+	page "unosić się w górze"
+	next "bez konieczności"
+	next "odpoczynku"
 	dex
 
 _PidgeyDexEntry::
-	text "A common sight in"
-	next "forests and woods."
-	next "It flaps its"
+	text "Często spotykany w"
+	next "lasach. Macha"
+	next "skrzydłami na"
 
-	page "wings at ground"
-	next "level to kick up"
-	next "blinding sand"
+	page "poziomie gruntu,"
+	next "wzbijając"
+	next "oślepiający piach"
 	dex
 
 _SlowpokeDexEntry::
-	text "Incredibly slow"
-	next "and dopey. It"
-	next "takes 5 seconds"
+	text "Niezwykle powolny"
+	next "i głupkowaty."
+	next "5 sekund mija"
 
-	page "for it to feel"
-	next "pain when under"
-	next "attack"
+	page "zanim poczuje ból,"
+	next "kiedy jest"
+	next "atakowany"
 	dex
 
 _KadabraDexEntry::
-	text "It emits special"
-	next "alpha waves from"
-	next "its body that"
+	text "Emituje ze swojego"
+	next "ciała specjalne"
+	next "fale alfa, które"
 
-	page "induce headaches"
-	next "just by being"
-	next "close by"
+	page "wywołują bóle"
+	next "głowy tylko przez"
+	next "bliskość"
 	dex
 
 _GravelerDexEntry::
-	text "Rolls down slopes"
-	next "to move. It rolls"
-	next "over any obstacle"
+	text "Stacza się po"
+	next "zboczach, aby się"
+	next "poruszać. Toczy"
 
-	page "without slowing"
-	next "or changing its"
-	next "direction"
+	page "się po każdej"
+	next "przeszkodzie bez"
+	next "spowalniania"
 	dex
 
 _ChanseyDexEntry::
-	text "A rare and elusive"
-	next "#MON that is"
-	next "said to bring"
+	text "Rzadki oraz"
+	next "nieuchwytny"
+	next "#MON, który"
 
-	page "happiness to those"
-	next "who manage to get"
-	next "it"
+	page "podobno przynosi"
+	next "szczęście tym,"
+	next "którzy go złapią"
 	dex
 
 _MachokeDexEntry::
-	text "Its muscular body"
-	next "is so powerful, it"
-	next "must wear a power"
+	text "Jego muskularne"
+	next "ciało jest tak"
+	next "potężne, że musi"
 
-	page "save belt to be"
-	next "able to regulate"
-	next "its motions"
+	page "nosić pas, aby"
+	next "móc regulować"
+	next "swoje ruchy"
 	dex
 
 _MrMimeDexEntry::
-	text "If interrupted"
-	next "while it is"
-	next "miming, it will"
+	text "Jeśli mu się"
+	next "przerwie podczas"
+	next "naśladowania,"
 
-	page "slap around the"
-	next "offender with its"
-	next "broad hands"
+	page "będzie on uderzać"
+	next "sprawcę szerokimi"
+	next "rękami"
 	dex
 
 _HitmonleeDexEntry::
-	text "When in a hurry,"
-	next "its legs lengthen"
-	next "progressively."
+	text "W pośpiechu jego"
+	next "nogi stopniowo się"
+	next "wydłużają."
 
-	page "It runs smoothly"
-	next "with extra long,"
-	next "loping strides"
+	page "Biegnie płynnie"
+	next "bardzo długimi,"
+	next "szybkimi krokami"
 	dex
 
 _HitmonchanDexEntry::
-	text "While apparently"
-	next "doing nothing, it"
-	next "fires punches in"
+	text "Choć pozornie nic"
+	next "nie robi, zadaje"
+	next "błyskawiczne"
 
-	page "lightning fast"
-	next "volleys that are"
-	next "impossible to see"
+	page "ciosy pięściami,"
+	next "których nie sposób"
+	next "dostrzec"
 	dex
 
 _ArbokDexEntry::
-	text "It is rumored that"
-	next "the ferocious"
-	next "warning markings"
+	text "Mówi się, że"
+	next "dzikie znamiona"
+	next "ostrzegawcze na"
 
-	page "on its belly"
-	next "differ from area"
-	next "to area"
+	page "brzuchu różnią się"
+	next "w zależności od"
+	next "miejsca"
 	dex
 
 _ParasectDexEntry::
-	text "A host-parasite"
-	next "pair in which the"
-	next "parasite mushroom"
+	text "Gospodarz-pasożyt,"
+	next "gdzie pasożyt"
+	next "przejął robaczego"
 
-	page "has taken over the"
-	next "host bug. Prefers"
-	next "damp places"
+	page "gospodarza."
+	next "Preferuje wilgotne"
+	next "miejsca"
 	dex
 
 _PsyduckDexEntry::
-	text "While lulling its"
-	next "enemies with its"
-	next "vacant look, this"
+	text "Usypiając swoich"
+	next "wrogów pustym"
+	next "wzrokiem, ten"
 
-	page "wily #MON will"
-	next "use psychokinetic"
-	next "powers"
+	page "przebiegły #MON"
+	next "używa mocy psycho-"
+	next "kinetycznych"
 	dex
 
 _DrowzeeDexEntry::
-	text "Puts enemies to"
-	next "sleep then eats"
-	next "their dreams."
+	text "Usypia wrogów, a"
+	next "następnie pożera"
+	next "ich sny."
 
-	page "Occasionally gets"
-	next "sick from eating"
-	next "bad dreams"
+	page "Czasami choruje po"
+	next "zjedzeniu złych"
+	next "snów"
 	dex
 
 _GolemDexEntry::
-	text "Its boulder-like"
-	next "body is extremely"
-	next "hard. It can"
+	text "Ciało wyglądające"
+	next "jak głaz jest"
+	next "niezwykle twarde."
 
-	page "easily withstand"
-	next "dynamite blasts"
-	next "without damage"
+	page "Z łatwością"
+	next "wytrzymuje wybuchy"
+	next "dynamitu"
 	dex
 
 _MagmarDexEntry::
-	text "Its body always"
-	next "burns with an"
-	next "orange glow that"
+	text "Jego ciało zawsze"
+	next "płonie poświatą,"
+	next "która pozwala mu"
 
-	page "enables it to"
-	next "hide perfectly"
-	next "among flames"
+	page "doskonale ukryć"
+	next "się wśród"
+	next "płomieni"
 	dex
 
 _ElectabuzzDexEntry::
-	text "Normally found"
-	next "near power plants,"
-	next "they can wander"
+	text "Zwykle spotykane"
+	next "blisko elektrowni,"
+	next "mogą odejść i"
 
-	page "away and cause"
-	next "major blackouts"
-	next "in cities"
+	page "spowodować poważne"
+	next "awarie prądu w"
+	next "miastach"
 	dex
 
 _MagnetonDexEntry::
-	text "Formed by several"
-	next "MAGNEMITEs linked"
-	next "together. They"
+	text "Utworzony z"
+	next "połączenia kilku"
+	next "MAGNEMITE'ÓW."
 
-	page "frequently appear"
-	next "when sunspots"
-	next "flare up"
+	page "Pojawiają się"
+	next "często podczas"
+	next "rozbłysków słońca"
 	dex
 
 _KoffingDexEntry::
-	text "Because it stores"
-	next "several kinds of"
-	next "toxic gases in"
+	text "Przechowując w"
+	next "swoim ciele kilka"
+	next "rodzajów gazów,"
 
-	page "its body, it is"
-	next "prone to exploding"
-	next "without warning"
+	page "jest podatny na"
+	next "eksplozje bez"
+	next "ostrzeżenia"
 	dex
 
 _MankeyDexEntry::
-	text "Extremely quick to"
-	next "anger. It could"
-	next "be docile one"
+	text "Niezwykle szybko"
+	next "się gniewa."
+	next "W jednej chwili"
 
-	page "moment then"
-	next "thrashing away"
-	next "the next instant"
+	page "może być uległy,"
+	next "a w następnej"
+	next "może szaleć"
 	dex
 
 _SeelDexEntry::
-	text "The protruding"
-	next "horn on its head"
-	next "is very hard."
+	text "Wystający róg na"
+	next "jego głowie jest"
+	next "bardzo twardy."
 
-	page "It is used for"
-	next "bashing through"
-	next "thick ice"
+	page "Służy do"
+	next "przebijania się"
+	next "przez gruby lód"
 	dex
 
 _DiglettDexEntry::
-	text "Lives about one"
-	next "yard underground"
-	next "where it feeds on"
+	text "Żyje jeden metr"
+	next "pod ziemią, gdzie"
+	next "żywi się"
 
-	page "plant roots. It"
-	next "sometimes appears"
-	next "above ground"
+	page "korzeniami roślin."
+	next "Czasami pojawia"
+	next "się nad ziemią"
 	dex
 
 _TaurosDexEntry::
-	text "When it targets"
-	next "an enemy, it"
-	next "charges furiously"
+	text "Kiedy celuje we"
+	next "wroga, szarżuje"
+	next "wściekle, biczując"
 
-	page "while whipping its"
-	next "body with its"
-	next "long tails"
+	page "jednocześnie swoje"
+	next "ciało długimi"
+	next "ogonami"
 	dex
 
 _FarfetchdDexEntry::
-	text "The sprig of"
-	next "green onions it"
-	next "holds is its"
+	text "Trzymana przez"
+	next "niego gałązka"
+	next "zielonej cebuli"
 
-	page "weapon. It is"
-	next "used much like a"
-	next "metal sword"
+	page "jest jego bronią."
+	next "Jest używana jak"
+	next "metalowy miecz"
 	dex
 
 _VenonatDexEntry::
-	text "Lives in the"
-	next "shadows of tall"
-	next "trees where it"
+	text "Żyje w cieniu"
+	next "wysokich drzew,"
+	next "gdzie żywi się"
 
-	page "eats insects. It"
-	next "is attracted by"
-	next "light at night"
+	page "owadami."
+	next "W nocy przyciąga"
+	next "go światło"
 	dex
 
 _DragoniteDexEntry::
-	text "An extremely"
-	next "rarely seen"
-	next "marine #MON."
+	text "Niezwykle rzadko"
+	next "spotykany morski"
+	next "#MON. Podobno"
 
-	page "Its intelligence"
-	next "is said to match"
-	next "that of humans"
+	page "jego inteligencja"
+	next "dorównuje"
+	next "ludzkiej"
 	dex
 
 _DoduoDexEntry::
-	text "A bird that makes"
-	next "up for its poor"
-	next "flying with its"
+	text "Ptak, który"
+	next "nadrabia słabe"
+	next "loty szybkością"
 
-	page "fast foot speed."
-	next "Leaves giant"
-	next "footprints"
+	page "stóp. Pozostawia"
+	next "gigantyczne ślady"
+	next "stóp"
 	dex
 
 _PoliwagDexEntry::
-	text "Its newly grown"
-	next "legs prevent it"
-	next "from running. It"
+	text "Nowo wyhodowane"
+	next "nogi nie pozwalają"
+	next "mu biegać."
 
-	page "appears to prefer"
-	next "swimming than"
-	next "trying to stand"
+	page "Wydaje się, że"
+	next "woli pływać niż"
+	next "próbować stać"
 	dex
 
 _JynxDexEntry::
-	text "It seductively"
-	next "wiggles its hips"
-	next "as it walks. It"
+	text "Kusząco porusza"
+	next "biodrami podczas"
+	next "chodzenia. Może"
 
-	page "can cause people"
-	next "to dance in"
-	next "unison with it"
+	page "sprawić, że ludzie"
+	next "będą tańczyć razem"
+	next "z nią"
 	dex
 
 _MoltresDexEntry::
-	text "Known as the"
-	next "legendary bird of"
-	next "fire. Every flap"
+	text "Znany jako"
+	next "legendarny ptak"
+	next "ognia. Machnięcie"
 
-	page "of its wings"
-	next "creates a dazzling"
-	next "flash of flames"
+	page "skrzydłami tworzy"
+	next "oślepiający błysk"
+	next "płomieni"
 	dex
 
 _ArticunoDexEntry::
-	text "A legendary bird"
-	next "#MON that is"
-	next "said to appear to"
+	text "Legendarny #MON"
+	next "ptak, który"
+	next "pojawia się"
 
-	page "doomed people who"
-	next "are lost in icy"
-	next "mountains"
+	page "straconym osobom,"
+	next "które zgubiły się"
+	next "w lodowych górach"
 	dex
 
 _ZapdosDexEntry::
-	text "A legendary bird"
-	next "#MON that is"
-	next "said to appear"
+	text "Legendarny #MON"
+	next "ptak, który"
+	next "podobno pojawia"
 
-	page "from clouds while"
-	next "dropping enormous"
-	next "lightning bolts"
+	page "się z chmur,"
+	next "ciskając ogromnymi"
+	next "błyskawicami"
 	dex
 
 _DittoDexEntry::
-	text "Capable of copying"
-	next "an enemy's genetic"
-	next "code to instantly"
+	text "Potrafi skopiować"
+	next "kod genetyczny"
+	next "przeciwnika, aby"
 
-	page "transform itself"
-	next "into a duplicate"
-	next "of the enemy"
+	page "natychmiast"
+	next "przekształcić się"
+	next "w jego duplikat"
 	dex
 
 _MeowthDexEntry::
-	text "Adores circular"
-	next "objects. Wanders"
-	next "the streets on a"
+	text "Uwielbia okrągłe"
+	next "przedmioty. Co noc"
+	next "przemierza ulice w"
 
-	page "nightly basis to"
-	next "look for dropped"
-	next "loose change"
+	page "poszukiwaniu"
+	next "porzuconych"
+	next "drobnych"
 	dex
 
 _KrabbyDexEntry::
-	text "Its pincers are"
-	next "not only powerful"
-	next "weapons, they are"
+	text "Jego szczypce są"
+	next "nie tylko potężną"
+	next "bronią, ale służą"
 
-	page "used for balance"
-	next "when walking"
-	next "sideways"
+	page "do zachowania"
+	next "równowagi podczas"
+	next "chodzenia bokiem"
 	dex
 
 _VulpixDexEntry::
-	text "At the time of"
-	next "birth, it has"
-	next "just one tail."
+	text "W chwili narodzin"
+	next "posiada tylko"
+	next "jeden ogon."
 
-	page "The tail splits"
-	next "from its tip as"
-	next "it grows older"
+	page "Wraz z wiekiem"
+	next "ogon oddziela się"
+	next "od czubka"
 	dex
 
 _NinetalesDexEntry::
-	text "Very smart and"
-	next "very vengeful."
-	next "Grabbing one of"
+	text "Bardzo bystry i"
+	next "mściwy. Złapanie"
+	next "jednego z jego"
 
-	page "its many tails"
-	next "could result in a"
-	next "1000-year curse"
+	page "wielu ogonów może"
+	next "skutkować klątwą"
+	next "na 1000 lat"
 	dex
 
 _PikachuDexEntry::
-	text "When several of"
-	next "these #MON"
-	next "gather, their"
+	text "Kiedy zbierze się"
+	next "kilka takich, ich"
+	next "elektryczność może"
 
-	page "electricity could"
-	next "build and cause"
-	next "lightning storms"
+	page "się nagromadzić i"
+	next "wywołać burze z"
+	next "piorunami"
 	dex
 
 _RaichuDexEntry::
-	text "Its long tail"
-	next "serves as a"
-	next "ground to protect"
+	text "Długi ogon służy"
+	next "jako uziemienie do"
+	next "ochrony przed"
 
-	page "itself from its"
-	next "own high voltage"
-	next "power"
+	page "własną energią"
+	next "wysokiego"
+	next "napięcia"
 	dex
 
 _DratiniDexEntry::
-	text "Long considered a"
-	next "mythical #MON"
-	next "until recently"
+	text "Długo uważany za"
+	next "mitycznego"
+	next "#MONA, aż do"
 
-	page "when a small"
-	next "colony was found"
-	next "living underwater"
+	page "niedawna, kiedy"
+	next "znaleziono kolonię"
+	next "żyjącą pod wodą"
 	dex
 
 _DragonairDexEntry::
-	text "A mystical #MON"
-	next "that exudes a"
-	next "gentle aura."
+	text "Mistyczny #MON,"
+	next "który emanuje"
+	next "łagodną aurą."
 
-	page "Has the ability"
-	next "to change climate"
-	next "conditions"
+	page "Posiada zdolność"
+	next "zmiany warunków"
+	next "klimatycznych"
 	dex
 
 _KabutoDexEntry::
-	text "A #MON that"
-	next "was resurrected"
-	next "from a fossil"
+	text "#MON, który"
+	next "został wskrzeszony"
+	next "ze skamieliny"
 
-	page "found in what was"
-	next "once the ocean"
-	next "floor eons ago"
+	page "znalezionej na"
+	next "dnie oceanu eony"
+	next "temu"
 	dex
 
 _KabutopsDexEntry::
-	text "Its sleek shape is"
-	next "perfect for swim-"
-	next "ming. It slashes"
+	text "Smukły kształt"
+	next "jest idealny do"
+	next "pływania. Tnie"
 
-	page "prey with its"
-	next "claws and drains"
-	next "the body fluids"
+	page "pazurami ofiarę i"
+	next "wysysa jej płyny"
+	next "ustrojowe"
 	dex
 
 _HorseaDexEntry::
-	text "Known to shoot"
-	next "down flying bugs"
-	next "with precision"
+	text "Zestrzeliwuje"
+	next "latające robaki"
+	next "precyzyjnymi"
 
-	page "blasts of ink"
-	next "from the surface"
-	next "of the water"
+	page "uderzeniami"
+	next "atramentu z"
+	next "powierzchni wody"
 	dex
 
 _SeadraDexEntry::
-	text "Capable of swim-"
-	next "ming backwards by"
-	next "rapidly flapping"
+	text "Potrafi pływać do"
+	next "tyłu, gwałtownie"
+	next "machając swoimi"
 
-	page "its wing-like"
-	next "pectoral fins and"
-	next "stout tail"
+	page "skrzydłowymi"
+	next "płetwami i mocnym"
+	next "ogonem"
 	dex
 
 _SandshrewDexEntry::
-	text "Burrows deep"
-	next "underground in"
-	next "arid locations"
+	text "Drąży głęboko pod"
+	next "ziemią w suchych"
+	next "miejscach z dala"
 
-	page "far from water."
-	next "It only emerges"
-	next "to hunt for food"
+	page "od wody. Wyłania"
+	next "się tylko po"
+	next "pożywienie"
 	dex
 
 _SandslashDexEntry::
-	text "Curls up into a"
-	next "spiny ball when"
-	next "threatened. It"
+	text "W razie zagrożenia"
+	next "zwija się w"
+	next "kolczastą kulę."
 
-	page "can roll while"
-	next "curled up to"
-	next "attack or escape"
+	page "Zwinięty, toczy"
+	next "się, aby atakować"
+	next "lub uciec"
 	dex
 
 _OmanyteDexEntry::
-	text "Although long"
-	next "extinct, in rare"
-	next "cases, it can be"
+	text "Choć dawno wymarł,"
+	next "w rzadkich"
+	next "przypadkach może"
 
-	page "genetically"
-	next "resurrected from"
-	next "fossils"
+	page "być genetycznie"
+	next "wskrzeszony ze"
+	next "skamielin"
 	dex
 
 _OmastarDexEntry::
-	text "A prehistoric"
-	next "#MON that died"
-	next "out when its"
+	text "Prehistoryczny"
+	next "#MON, który"
+	next "wyginął, gdy jego"
 
-	page "heavy shell made"
-	next "it impossible to"
-	next "catch prey"
+	page "ciężka skorupa"
+	next "uniemożliwiła"
+	next "złapanie ofiary"
 	dex
 
 _JigglypuffDexEntry::
-	text "When its huge eyes"
-	next "light up, it sings"
-	next "a mysteriously"
+	text "Kiedy jego ogromne"
+	next "oczy świecą się,"
+	next "śpiewa tajemniczą,"
 
-	page "soothing melody"
-	next "that lulls its"
-	next "enemies to sleep"
+	page "kojącą melodię,"
+	next "która usypia"
+	next "przeciwników"
 	dex
 
 _WigglytuffDexEntry::
-	text "The body is soft"
-	next "and rubbery. When"
-	next "angered, it will"
+	text "Ciało jest miękkie"
+	next "i gumowate."
+	next "Rozgniewany zasysa"
 
-	page "suck in air and"
-	next "inflate itself to"
-	next "an enormous size"
+	page "powietrze i"
+	next "napełnia się do"
+	next "dużych rozmiarów"
 	dex
 
 _EeveeDexEntry::
-	text "Its genetic code"
-	next "is irregular."
-	next "It may mutate if"
+	text "Ma nieregularny"
+	next "kod genetyczny."
+	next "Ulegnie mutacji,"
 
-	page "it is exposed to"
-	next "radiation from"
-	next "element STONEs"
+	page "jeśli zostanie"
+	next "wystawiony na"
+	next "działanie KAMIENI"
 	dex
 
 _FlareonDexEntry::
-	text "When storing"
-	next "thermal energy in"
-	next "its body, its"
+	text "Kiedy magazynuje"
+	next "energię cieplną w"
+	next "swoim ciele, jego"
 
-	page "temperature could"
-	next "soar to over 1600"
-	next "degrees"
+	page "temperatura może"
+	next "wzrosnąć do ponad"
+	next "1600 stopni"
 	dex
 
 _JolteonDexEntry::
-	text "It accumulates"
-	next "negative ions in"
-	next "the atmosphere to"
+	text "Gromadzi jony"
+	next "ujemne w"
+	next "atmosferze, aby"
 
-	page "blast out 10000-"
-	next "volt lightning"
-	next "bolts"
+	page "wystrzelić pioruny"
+	next "o napięciu 10000"
+	next "woltów"
 	dex
 
 _VaporeonDexEntry::
-	text "Lives close to"
-	next "water. Its long"
-	next "tail is ridged"
+	text "Żyje blisko wody."
+	next "Jego długi ogon"
+	next "jest obszyty"
 
-	page "with a fin which"
-	next "is often mistaken"
-	next "for a mermaid's"
+	page "płetwą, która jest"
+	next "często mylona z"
+	next "płetwą syreny"
 	dex
 
 _MachopDexEntry::
-	text "Loves to build"
-	next "its muscles."
-	next "It trains in all"
+	text "Uwielbia budować"
+	next "mięśnie. Trenuje"
+	next "we wszystkich"
 
-	page "styles of martial"
-	next "arts to become"
-	next "even stronger"
+	page "stylach sztuk"
+	next "walki, aby stać"
+	next "się silniejszym"
 	dex
 
 _ZubatDexEntry::
-	text "Forms colonies in"
-	next "perpetually dark"
-	next "places. Uses"
+	text "Tworzy kolonie w"
+	next "wiecznie ciemnych"
+	next "miejscach. Używa"
 
-	page "ultrasonic waves"
-	next "to identify and"
-	next "approach targets"
+	page "fal ultradźwięko-"
+	next "wych do identyfi-"
+	next "kowania celów"
 	dex
 
 _EkansDexEntry::
-	text "Moves silently"
-	next "and stealthily."
-	next "Eats the eggs of"
+	text "Porusza się cicho"
+	next "i ukradkiem."
+	next "Zjada jaja ptaków,"
 
-	page "birds, such as"
-	next "PIDGEY and"
-	next "SPEAROW, whole"
+	page "takich jak PIDGEY"
+	next "i SPEAROW, w"
+	next "całości"
 	dex
 
 _ParasDexEntry::
-	text "Burrows to suck"
-	next "tree roots. The"
-	next "mushrooms on its"
+	text "Zagrzebuje się,"
+	next "aby ssać korzenie"
+	next "drzew. Grzyby na"
 
-	page "back grow by draw-"
-	next "ing nutrients from"
-	next "the bug host"
+	page "grzbiecie rosną,"
+	next "czerpiąc składniki"
+	next "z gospodarza"
 	dex
 
 _PoliwhirlDexEntry::
-	text "Capable of living"
-	next "in or out of"
-	next "water. When out"
+	text "Zdolny do życia w"
+	next "wodzie lub poza"
+	next "nią. Po wyjściu z"
 
-	page "of water, it"
-	next "sweats to keep"
-	next "its body slimy"
+	page "wody poci się, aby"
+	next "ciało pozostało"
+	next "śluzowate"
 	dex
 
 _PoliwrathDexEntry::
-	text "An adept swimmer"
-	next "at both the front"
-	next "crawl and breast"
+	text "Biegły pływak"
+	next "zarówno w kraulu,"
+	next "jak i w żabce."
 
-	page "stroke. Easily"
-	next "overtakes the best"
-	next "human swimmers"
+	page "Potrafi wyprzedzić"
+	next "najlepszych"
+	next "ludzkich pływaków"
 	dex
 
 _WeedleDexEntry::
-	text "Often found in"
-	next "forests, eating"
-	next "leaves."
+	text "Często spotykany w"
+	next "lasach, żywiący"
+	next "się liśćmi."
 
-	page "It has a sharp"
-	next "venomous stinger"
-	next "on its head"
+	page "Posiada ostre,"
+	next "jadowite żądło na"
+	next "głowie"
 	dex
 
 _KakunaDexEntry::
-	text "Almost incapable"
-	next "of moving, this"
-	next "#MON can only"
+	text "Niemal niezdolny"
+	next "do poruszania się,"
+	next "#MON ten może"
 
-	page "harden its shell"
-	next "to protect itself"
-	next "from predators"
+	page "utwardzać skorupę,"
+	next "aby uchronić się"
+	next "przed wrogami"
 	dex
 
 _BeedrillDexEntry::
-	text "Flies at high"
-	next "speed and attacks"
-	next "using its large"
+	text "Z dużą prędkością"
+	next "atakuje, używając"
+	next "dużych jadowitych"
 
-	page "venomous stingers"
-	next "on its forelegs"
-	next "and tail"
+	page "żądeł na przednich"
+	next "kończynach i"
+	next "ogonie"
 	dex
 
 _DodrioDexEntry::
-	text "Uses its three"
-	next "brains to execute"
-	next "complex plans."
+	text "Wykorzystuje mózgi"
+	next "do realizacji"
+	next "złożonych planów."
 
-	page "While two heads"
-	next "sleep, one head"
-	next "stays awake"
+	page "Podczas gdy dwie"
+	next "głowy śpią, jedna"
+	next "głowa czuwa"
 	dex
 
 _PrimeapeDexEntry::
-	text "Always furious"
-	next "and tenacious to"
-	next "boot. It will not"
+	text "Zawsze wściekły i"
+	next "wytrwały."
+	next "Nie porzuci pogoni"
 
-	page "abandon chasing"
-	next "its quarry until"
-	next "it is caught"
+	page "za zwierzyną,"
+	next "dopóki nie"
+	next "zostanie złapana"
 	dex
 
 _DugtrioDexEntry::
-	text "A team of DIGLETT"
-	next "triplets."
-	next "It triggers huge"
+	text "Zespół trojaczków"
+	next "DIGLETT. Wywołuje"
+	next "ogromne trzęsienia"
 
-	page "earthquakes by"
-	next "burrowing 60 miles"
-	next "underground"
+	page "ziemi, zakopując"
+	next "się około 100 km"
+	next "pod ziemią"
 	dex
 
 _VenomothDexEntry::
-	text "The dust-like"
-	next "scales covering"
-	next "its wings are"
+	text "Podobne do pyłu"
+	next "łuski pokrywające"
+	next "jego skrzydła są"
 
-	page "color coded to"
-	next "indicate the kinds"
-	next "of poison it has"
+	page "oznaczone tak, aby"
+	next "odróżnić rodzaj"
+	next "jego trucizny"
 	dex
 
 _DewgongDexEntry::
-	text "Stores thermal"
-	next "energy in its"
-	next "body. Swims at a"
+	text "Magazynuje energię"
+	next "cieplną w ciele."
+	next "Pływa ze stałą"
 
-	page "steady 8 knots"
-	next "even in intensely"
-	next "cold waters"
+	page "prędkością 8"
+	next "węzłów nawet w"
+	next "zimnych wodach"
 	dex
 
 _CaterpieDexEntry::
-	text "Its short feet"
-	next "are tipped with"
-	next "suction pads that"
+	text "Jego krótkie stopy"
+	next "są zakończone"
+	next "przyssawkami,"
 
-	page "enable it to"
-	next "tirelessly climb"
-	next "slopes and walls"
+	page "które pozwalają mu"
+	next "wspinać się po"
+	next "ścianach"
 	dex
 
 _MetapodDexEntry::
-	text "This #MON is"
-	next "vulnerable to"
-	next "attack while its"
+	text "#MON ten jest"
+	next "podatny na ataki,"
+	next "gdy jego skorupa"
 
-	page "shell is soft,"
-	next "exposing its weak"
-	next "and tender body"
+	page "jest miękka,"
+	next "odsłaniając swoje"
+	next "delikatne ciało"
 	dex
 
 _ButterfreeDexEntry::
-	text "In battle, it"
-	next "flaps its wings"
-	next "at high speed to"
+	text "Podczas walki"
+	next "macha skrzydłami z"
+	next "dużą prędkością,"
 
-	page "release highly"
-	next "toxic dust into"
-	next "the air"
+	page "uwalniając w"
+	next "powietrze wysoce"
+	next "toksyczny pył"
 	dex
 
 _MachampDexEntry::
-	text "Using its heavy"
-	next "muscles, it throws"
-	next "powerful punches"
+	text "Używając swoich"
+	next "ciężkich mięśni,"
+	next "rzuca potężnymi"
 
-	page "that can send the"
-	next "victim clear over"
-	next "the horizon"
+	page "ciosami, które"
+	next "mogą wysłać ofiarę"
+	next "a horyzont"
 	dex
 
 _GolduckDexEntry::
-	text "Often seen swim-"
-	next "ming elegantly by"
-	next "lake shores. It"
+	text "Widywany jak pływa"
+	next "elegancko nad"
+	next "brzegiem jeziora."
 
-	page "is often mistaken"
-	next "for the Japanese"
-	next "monster, Kappa"
+	page "Często mylony"
+	next "jest z japońskim"
+	next "potworem, Kappą"
 	dex
 
 _HypnoDexEntry::
-	text "When it locks eyes"
-	next "with an enemy, it"
-	next "will use a mix of"
+	text "Kiedy spojrzy na"
+	next "wroga, użyje"
+	next "kombinacji ruchów"
 
-	page "PSI moves such as"
-	next "HYPNOSIS and"
-	next "CONFUSION"
+	page "PSI, takich jak"
+	next "HIPNOZA oraz"
+	next "KONFUZJA"
 	dex
 
 _GolbatDexEntry::
-	text "Once it strikes,"
-	next "it will not stop"
-	next "draining energy"
+	text "Po zaatakowaniu"
+	next "nie przestanie"
+	next "wysysać energii z"
 
-	page "from the victim"
-	next "even if it gets"
-	next "too heavy to fly"
+	page "ofiary, nawet"
+	next "jeśli będzie zbyt"
+	next "ciężki, aby latać"
 	dex
 
 _MewtwoDexEntry::
-	text "It was created by"
-	next "a scientist after"
-	next "years of horrific"
+	text "Został stworzony"
+	next "przez naukowca po"
+	next "latach strasznych"
 
-	page "gene splicing and"
-	next "DNA engineering"
-	next "experiments"
+	page "eksperymentów z"
+	next "podziałem genów i"
+	next "inżynierii DNA"
 	dex
 
 _SnorlaxDexEntry::
-	text "Very lazy. Just"
-	next "eats and sleeps."
-	next "As its rotund"
+	text "Bardzo leniwy."
+	next "Tylko je i śpi."
+	next "W miarę jak"
 
-	page "bulk builds, it"
-	next "becomes steadily"
-	next "more slothful"
+	page "rośnie jego masa,"
+	next "staje się coraz"
+	next "bardziej leniwy"
 	dex
 
 _MagikarpDexEntry::
-	text "In the distant"
-	next "past, it was"
-	next "somewhat stronger"
+	text "W odległej"
+	next "przeszłości były"
+	next "nieco silniejsze"
 
-	page "than the horribly"
-	next "weak descendants"
-	next "that exist today"
+	page "od strasznie"
+	next "słabych potomków,"
+	next "które są dzisiaj"
 	dex
 
 _MukDexEntry::
-	text "Thickly covered"
-	next "with a filthy,"
-	next "vile sludge. It"
+	text "Gęsto pokryty"
+	next "brudnym, plugawym"
+	next "szlamem. Jest tak"
 
-	page "is so toxic, even"
-	next "its footprints"
-	next "contain poison"
+	page "toksyczny, że"
+	next "nawet jego ślady"
+	next "mają truciznę"
 	dex
 
 _KinglerDexEntry::
-	text "The large pincer"
-	next "has 10000 hp of"
-	next "crushing power."
+	text "Duże szczypce mają"
+	next "miażdżącą siłę"
+	next "10000 KM."
 
-	page "However, its huge"
-	next "size makes it"
-	next "unwieldy to use"
+	page "Jednak ich wielki"
+	next "rozmiar sprawia,"
+	next "że są nieporęczne"
 	dex
 
 _CloysterDexEntry::
-	text "When attacked, it"
-	next "launches its"
-	next "horns in quick"
+	text "Po zaatakowaniu"
+	next "strzela rogami w"
+	next "szybkich salwach."
 
-	page "volleys. Its"
-	next "innards have"
-	next "never been seen"
+	page "Jego wnętrzności"
+	next "nigdy nie były"
+	next "widoczne"
 	dex
 
 _ElectrodeDexEntry::
-	text "It stores electric"
-	next "energy under very"
-	next "high pressure."
+	text "Trzyma energię pod"
+	next "bardzo wysokim"
+	next "ciśnieniem."
 
-	page "It often explodes"
-	next "with little or no"
-	next "provocation"
+	page "Często wybucha z"
+	next "niewielką lub"
+	next "żadną prowokacją"
 	dex
 
 _ClefableDexEntry::
-	text "A timid fairy"
-	next "#MON that is"
-	next "rarely seen. It"
+	text "Nieśmiały baśniowy"
+	next "#MON, rzadko"
+	next "widywany. Ucieknie"
 
-	page "will run and hide"
-	next "the moment it"
-	next "senses people"
+	page "i ukryje się w"
+	next "chwili, kiedy"
+	next "wyczuje ludzi"
 	dex
 
 _WeezingDexEntry::
-	text "Where two kinds"
-	next "of poison gases"
-	next "meet, 2 KOFFINGs"
+	text "Tam, gdzie"
+	next "spotykają się dwa"
+	next "rodzaje trujących"
 
-	page "can fuse into a"
-	next "WEEZING over many"
-	next "years"
+	page "gazów, 2 KOFFINGI"
+	next "mogą połączyć się"
+	next "w WEEZINGA"
 	dex
 
 _PersianDexEntry::
-	text "Although its fur"
-	next "has many admirers,"
-	next "it is tough to"
+	text "Chociaż jego futro"
+	next "ma wielbicieli,"
+	next "trudno jest go"
 
-	page "raise as a pet"
-	next "because of its"
-	next "fickle meanness"
+	page "hodować ze względu"
+	next "względu na jego"
+	next "kapryśną podłość"
 	dex
 
 _MarowakDexEntry::
-	text "The bone it holds"
-	next "is its key weapon."
-	next "It throws the"
+	text "Kość jest jego"
+	next "kluczową bronią."
+	next "Rzuca umiejętnie"
 
-	page "bone skillfully"
-	next "like a boomerang"
-	next "to KO targets"
+	page "niczym bumerangiem"
+	next "aby znokautować"
+	next "cele"
 	dex
 
 _HaunterDexEntry::
-	text "Because of its"
-	next "ability to slip"
-	next "through block"
+	text "Mówi się, że ze"
+	next "względu na jego"
+	next "zdolność do"
 
-	page "walls, it is said"
-	next "to be from an-"
-	next "other dimension"
+	page "fazowania przez"
+	next "ściany, pochodzi z"
+	next "innego wymiaru"
 	dex
 
 _AbraDexEntry::
-	text "Using its ability"
-	next "to read minds, it"
-	next "will identify"
+	text "Dzięki zdolności"
+	next "czytania w"
+	next "myślach, rozpozna"
 
-	page "impending danger"
-	next "and TELEPORT to"
-	next "safety"
+	page "niebezpieczeństwo"
+	next "i TELEPORTUJE się"
+	next "w inne miejsce"
 	dex
 
 _AlakazamDexEntry::
-	text "Its brain can out-"
-	next "perform a super-"
-	next "computer."
+	text "Jego mózg potrafi"
+	next "przewyższyć super-"
+	next "komputer. Podobno"
 
-	page "Its intelligence"
-	next "quotient is said"
-	next "to be 5,000"
+	page "jego iloraz"
+	next "inteligencji"
+	next "wynosi 5000"
 	dex
 
 _PidgeottoDexEntry::
-	text "Very protective"
-	next "of its sprawling"
-	next "territorial area,"
+	text "Bardzo ochronny na"
+	next "swoim rozległym"
+	next "terytorium,"
 
-	page "this #MON will"
-	next "fiercely peck at"
-	next "any intruder"
+	page "dlatego zaciekle"
+	next "dziobie każdego"
+	next "intruza"
 	dex
 
 _PidgeotDexEntry::
-	text "When hunting, it"
-	next "skims the surface"
-	next "of water at high"
+	text "Podczas polowania"
+	next "szybuje z dużą"
+	next "prędkością po"
 
-	page "speed to pick off"
-	next "unwary prey such"
-	next "as MAGIKARP"
+	page "powierzchni wody,"
+	next "by złapać zdobycz,"
+	next "taką jak MAGIKARP"
 	dex
 
 _StarmieDexEntry::
-	text "Its central core"
-	next "glows with the"
-	next "seven colors of"
+	text "Jego centralny"
+	next "rdzeń lśni"
+	next "siedmioma kolorami"
 
-	page "the rainbow. Some"
-	next "people value the"
-	next "core as a gem"
+	page "tęczy. Niektórzy"
+	next "cenią rdzeń jako"
+	next "klejnot"
 	dex
 
 _BulbasaurDexEntry::
-	text "A strange seed was"
-	next "planted on its"
-	next "back at birth."
+	text "Dziwne nasiono"
+	next "zostało zasadzone"
+	next "na jego plecach od"
 
-	page "The plant sprouts"
-	next "and grows with"
-	next "this #MON"
+	page "urodzenia. Roślina"
+	next "kiełkuje i rośnie"
+	next "razem z nim"
 	dex
 
 _VenusaurDexEntry::
-	text "The plant blooms"
-	next "when it is"
-	next "absorbing solar"
+	text "Roślina kwitnie,"
+	next "kiedy pochłania"
+	next "energię słoneczną."
 
-	page "energy. It stays"
-	next "on the move to"
-	next "seek sunlight"
+	page "Pozostaje w ruchu,"
+	next "szukając światła"
+	next "słonecznego"
 	dex
 
 _TentacruelDexEntry::
-	text "The tentacles are"
-	next "normally kept"
-	next "short. On hunts,"
+	text "Macki zwykle są"
+	next "krótkie. Podczas"
+	next "polowań są one"
 
-	page "they are extended"
-	next "to ensnare and"
-	next "immobilize prey"
+	page "wydłużane, aby"
+	next "usidlić i unieru-"
+	next "chomić ofiarę"
 	dex
 
 _GoldeenDexEntry::
-	text "Its tail fin"
-	next "billows like an"
-	next "elegant ballroom"
+	text "Płetwa ogonowa"
+	next "faluje jak"
+	next "elegancka suknia"
 
-	page "dress, giving it"
-	next "the nickname of"
-	next "the Water Queen"
+	page "balowa, nadając"
+	next "jej przydomek"
+	next "Wodnej Królowej"
 	dex
 
 _SeakingDexEntry::
-	text "In the autumn"
-	next "spawning season,"
-	next "they can be seen"
+	text "W jesiennym"
+	next "okresie tarła"
+	next "można je zobaczyć,"
 
-	page "swimming power-"
-	next "fully up rivers"
-	next "and creeks"
+	page "pływające"
+	next "potężnie w górę"
+	next "rzek i potoków"
 	dex
 
 _PonytaDexEntry::
-	text "Its hooves are 10"
-	next "times harder than"
-	next "diamonds. It can"
+	text "Jego kopyta są 10"
+	next "razy twardsze niż"
+	next "diamenty. Potrafi"
 
-	page "trample anything"
-	next "completely flat"
-	next "in little time"
+	page "zadeptać wszystko"
+	next "na miazgę w"
+	next "krótkim czasie"
 	dex
 
 _RapidashDexEntry::
-	text "Very competitive,"
-	next "this #MON will"
-	next "chase anything"
+	text "#MON ten będzie"
+	next "ścigał wszystko,"
+	next "co porusza się"
 
-	page "that moves fast"
-	next "in the hopes of"
-	next "racing it"
+	page "szybko, w nadziei"
+	next "na ściganie się z"
+	next "nim"
 	dex
 
 _RattataDexEntry::
-	text "Bites anything"
-	next "when it attacks."
-	next "Small and very"
+	text "Gryzie wszystko,"
+	next "co zaatakuje."
+	next "Mały i bardzo"
 
-	page "quick, it is a"
-	next "common sight in"
-	next "many places"
+	page "szybki, jest"
+	next "częstym widokiem w"
+	next "wielu miejscach"
 	dex
 
 _RaticateDexEntry::
-	text "It uses its whis-"
-	next "kers to maintain"
-	next "its balance."
+	text "Używa swoich wąsów"
+	next "w celu utrzymania"
+	next "równowagi."
 
-	page "It apparently"
-	next "slows down if"
-	next "they are cut off"
+	page "Najwidoczniej"
+	next "zwalnia, jeśli"
+	next "zostaną odcięte"
 	dex
 
 _NidorinoDexEntry::
-	text "An aggressive"
-	next "#MON that is"
-	next "quick to attack."
+	text "Agresywny #MON,"
+	next "który szybko"
+	next "atakuje."
 
-	page "The horn on its"
-	next "head secretes a"
-	next "powerful venom"
+	page "Róg na jego głowie"
+	next "wydziela potężny"
+	next "jad"
 	dex
 
 _NidorinaDexEntry::
-	text "The female's horn"
-	next "develops slowly."
-	next "Prefers physical"
+	text "Róg samicy rozwija"
+	next "się powoli."
+	next "Preferuje ataki"
 
-	page "attacks such as"
-	next "clawing and"
-	next "biting"
+	page "fizyczne, takie"
+	next "jak drapanie i"
+	next "gryzienie"
 	dex
 
 _GeodudeDexEntry::
-	text "Found in fields"
-	next "and mountains."
-	next "Mistaking them"
+	text "Występują na"
+	next "polach i w górach."
+	next "Myląc je z"
 
-	page "for boulders,"
-	next "people often step"
-	next "or trip on them"
+	page "głazami, ludzie"
+	next "często nadepną lub"
+	next "potkną się o nie"
 	dex
 
 _PorygonDexEntry::
-	text "A #MON that"
-	next "consists entirely"
-	next "of programming"
+	text "#MON składający"
+	next "się wyłącznie z"
+	next "kodu. Zdolny do"
 
-	page "code. Capable of"
-	next "moving freely in"
-	next "cyberspace"
+	page "swobodnego"
+	next "poruszania się w"
+	next "cyberprzestrzeni"
 	dex
 
 _AerodactylDexEntry::
-	text "A ferocious, pre-"
-	next "historic #MON"
-	next "that goes for the"
+	text "Okrutny, pradawny"
+	next "#MON, który"
+	next "atakuje wrogów"
 
-	page "enemy's throat"
-	next "with its serrated"
-	next "saw-like fangs"
+	page "ząbkowanymi zębami"
+	next "przypominającymi"
+	next "piły"
 	dex
 
 _MagnemiteDexEntry::
-	text "Uses anti-gravity"
-	next "to stay suspended."
-	next "Appears without"
+	text "Używa antygrawita-"
+	next "cji do utrzymania"
+	next "się. Pojawia się"
 
-	page "warning and uses"
-	next "THUNDER WAVE and"
-	next "similar moves"
+	page "bez ostrzeżenia i"
+	next "używa ELEKTROFALI"
+	next "i innych ruchów"
 	dex
 
 _CharmanderDexEntry::
-	text "Obviously prefers"
-	next "hot places. When"
-	next "it rains, steam"
+	text "Preferuje gorące"
+	next "miejsca. Mówi się,"
+	next "że kiedy pada"
 
-	page "is said to spout"
-	next "from the tip of"
-	next "its tail"
+	page "deszcz, para unosi"
+	next "się z czubka jego"
+	next "ogona"
 	dex
 
 _SquirtleDexEntry::
-	text "After birth, its"
-	next "back swells and"
-	next "hardens into a"
+	text "Po narodzinach"
+	next "jego plecy puchną"
+	next "i twardnieją w"
 
-	page "shell. Powerfully"
-	next "sprays foam from"
-	next "its mouth"
+	page "skorupę. Potężnie"
+	next "rozpyla pianę z"
+	next "ust"
 	dex
 
 _CharmeleonDexEntry::
-	text "When it swings"
-	next "its burning tail,"
-	next "it elevates the"
+	text "Kiedy macha swoim"
+	next "płonącym ogonem,"
+	next "podnosi"
 
-	page "temperature to"
-	next "unbearably high"
-	next "levels"
+	page "temperaturę do"
+	next "nieznośnie"
+	next "wysokich poziomów"
 	dex
 
 _WartortleDexEntry::
-	text "Often hides in"
-	next "water to stalk"
-	next "unwary prey. For"
+	text "Ukrywa się w"
+	next "wodzie, aby prze-"
+	next "śladować ofiarę."
 
-	page "swimming fast, it"
-	next "moves its ears to"
-	next "maintain balance"
+	page "Podczas pływania"
+	next "porusza uszami, by"
+	next "mieć równowagę"
 	dex
 
 _CharizardDexEntry::
-	text "Spits fire that"
-	next "is hot enough to"
-	next "melt boulders."
+	text "Pluje ogniem,"
+	next "który jest na tyle"
+	next "gorący, aby stopić"
 
-	page "Known to cause"
-	next "forest fires"
-	next "unintentionally"
+	page "głazy. Nieumyślnie"
+	next "wywołuje pożary w"
+	next "lasach"
 	dex
 
 _OddishDexEntry::
-	text "During the day,"
-	next "it keeps its face"
-	next "buried in the"
+	text "W ciągu dnia"
+	next "trzyma twarz"
+	next "zakopaną w ziemi."
 
-	page "ground. At night,"
-	next "it wanders around"
-	next "sowing its seeds"
+	page "W nocy błąka się,"
+	next "rozsiewając"
+	next "nasiona"
 	dex
 
 _GloomDexEntry::
-	text "The fluid that"
-	next "oozes from its"
-	next "mouth isn't drool."
+	text "Płyn, który sączy"
+	next "się z jego ust,"
+	next "nie jest śliną."
 
-	page "It is a nectar"
-	next "that is used to"
-	next "attract prey"
+	page "Jest to nektar,"
+	next "który służy do"
+	next "wabienia ofiary"
 	dex
 
 _VileplumeDexEntry::
-	text "The larger its"
-	next "petals, the more"
-	next "toxic pollen it"
+	text "Im większe płatki,"
+	next "tym bardziej"
+	next "toksyczny pyłek"
 
-	page "contains. Its big"
-	next "head is heavy and"
-	next "hard to hold up"
+	page "zawiera. Jego duża"
+	next "głowa jest ciężka"
+	next "do utrzymania"
 	dex
 
 _BellsproutDexEntry::
-	text "A carnivorous"
-	next "#MON that traps"
-	next "and eats bugs."
+	text "Drapieżny #MON,"
+	next "który łapie i"
+	next "pożera robaki."
 
-	page "It uses its root"
-	next "feet to soak up"
-	next "needed moisture"
+	page "Używa korzeni do"
+	next "wchłaniania"
+	next "wilgoci"
 	dex
 
 _WeepinbellDexEntry::
-	text "It spits out"
-	next "POISONPOWDER to"
-	next "immobilize the"
+	text "Wypluwa"
+	next "TRUJĄCY PYŁ, aby"
+	next "unieruchomić"
 
-	page "enemy and then"
-	next "finishes it with"
-	next "a spray of ACID"
+	page "wroga, a następnie"
+	next "wykańcza go"
+	next "rozpylonym KWASEM"
 	dex
 
 _VictreebelDexEntry::
-	text "Said to live in"
-	next "huge colonies"
-	next "deep in jungles,"
+	text "Mówi się, że żyje"
+	next "w wielkich"
+	next "koloniach głęboko"
 
-	page "although no one"
-	next "has ever returned"
-	next "from there"
+	page "w dżungli, choć"
+	next "nikt stamtąd nie"
+	next "wrócił"
 	dex
