@@ -31,15 +31,13 @@ _Route22RivalAfterBattleText1::
 	done
 
 _Route22Rival1DefeatedText::
-	text "Ołł!"
-	line "Po prostu ci się"
-	cont "poszczęściło!"
+	text "Ołł! Po prostu ci"
+	line "się poszczęściło!"
 	prompt
 
 _Route22Rival1VictoryText::
-	text "Co?"
-	line "Skąd mam drugiego"
-	cont "#MONA?"
+	text "Co? Skąd mam"
+	line "drugiego #MONA?"
 
 	para "Też powinieneś"
 	line "złapać więcej!"

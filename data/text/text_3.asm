@@ -16,7 +16,7 @@ _GameSavedText::
 _OlderFileWillBeErasedText::
 	text "Starszy plik"
 	line "zapisu zostanie"
-	cont "usunięty. Okej?"
+	cont "usunięty. OK?"
 	done
 
 _WhenYouChangeBoxText::

@@ -71,7 +71,7 @@ _ViridianForestYoungster5Text::
 
 _ViridianForestTrainerTips1Text::
 	text "PORADY DLA"
-	cont "TRENERÓW!"
+	line "TRENERÓW!"
 
 	para "Jeśli chcesz"
 	line "uniknąć walk,"
@@ -82,13 +82,14 @@ _ViridianForestTrainerTips1Text::
 _ViridianForestUseAntidoteSignText::
 	text "Na truciznę użyj"
 	line "ANTIDOTUM!"
-	cont "Do nabycia w"
-	cont "SKLEPACH #MON!"
+
+	para "Do nabycia w"
+	line "#MON MART!"
 	done
 
 _ViridianForestTrainerTips2Text::
 	text "PORADY DLA"
-	cont "TRENERÓW!"
+	line "TRENERÓW!"
 
 	para "Skontaktuj się z"
 	line "PROF.OAKIEM przez"
@@ -98,7 +99,7 @@ _ViridianForestTrainerTips2Text::
 
 _ViridianForestTrainerTips3Text::
 	text "PORADY DLA"
-	cont "TRENERÓW!"
+	line "TRENERÓW!"
 
 	para "Nie kradnij"
 	line "#MONÓW od"
@@ -109,7 +110,7 @@ _ViridianForestTrainerTips3Text::
 
 _ViridianForestTrainerTips4Text::
 	text "PORADY DLA"
-	cont "TRENERÓW!"
+	line "TRENERÓW!"
 
 	para "Osłab #MONA"
 	line "przed próbą"
@@ -122,6 +123,7 @@ _ViridianForestTrainerTips4Text::
 _ViridianForestLeavingSignText::
 	text "OPUSZCZASZ"
 	line "LAS WERTAŃSKI"
-	cont "PRZED TOBĄ"
-	cont "MARMORIA"
+
+	para "PRZED TOBĄ"
+	line "MARMORIA"
 	done
