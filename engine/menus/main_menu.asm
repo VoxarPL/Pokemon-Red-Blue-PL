@@ -591,7 +591,7 @@ DisplayOptionMenu:
 
 TextSpeedOptionText:
 	db   "PRĘDKOŚĆ TEKSTU"
-	next " SZYB. ŚRED. WOLNA@"
+	next " SZYB. ŚRED.  WOL.@"
 
 BattleAnimationOptionText:
 	db   "ANIMACJE WALKI"

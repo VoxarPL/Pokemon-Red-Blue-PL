@@ -347,7 +347,7 @@ StartMenu_Item::
 	ld hl, wTopMenuItemY
 	ld a, 11
 	ld [hli], a ; top menu item Y
-	ld a, 14
+	ld a, 12
 	ld [hli], a ; top menu item X
 	xor a
 	ld [hli], a ; current menu item ID
@@ -462,6 +462,9 @@ StartMenu_TrainerInfo::
 	predef DrawBadges ; draw badges
 	ld b, SET_PAL_TRAINER_CARD
 	call RunPaletteCommand
+	ld a, [wOnSGB]
+	and a
+	call z, Delay3
 	call GBPalNormal
 	call WaitForTextScrollButtonPress ; wait for button press
 	call GBPalWhiteOut
@@ -469,6 +472,9 @@ StartMenu_TrainerInfo::
 	call LoadScreenTilesFromBuffer2 ; restore saved screen
 	call RunDefaultPaletteCommand
 	call ReloadMapData
+	ld a, [wOnSGB]
+	and a
+	call z, Delay3
 	call LoadGBPal
 	pop af
 	ldh [hTileAnimations], a

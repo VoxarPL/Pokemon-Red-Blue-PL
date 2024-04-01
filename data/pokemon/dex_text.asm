@@ -1413,9 +1413,9 @@ _SquirtleDexEntry::
 	next "jego plecy puchną"
 	next "i twardnieją w"
 
-	page "skorupę. Potężnie"
-	next "rozpyla pianę z"
-	next "ust"
+	page "skorupę."
+	next "Potężnie rozpyla"
+	next "pianę z ust"
 	dex
 
 _CharmeleonDexEntry::

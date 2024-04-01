@@ -44,8 +44,9 @@ _PalletTownOaksLabSignText::
 
 _PalletTownSignText::
 	text "ALABASTIA"
-	line "Cienie twojej"
-	cont "podróży czekają!"
+
+	para "Cienie twojej"
+	line "podróży czekają!"
 	done
 
 _PalletTownPlayersHouseSignText::

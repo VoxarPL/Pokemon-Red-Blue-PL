@@ -427,9 +427,9 @@ _OakLabEmailText::
 	para "..."
 
 	para "Wzywamy wszystkich"
-	line "Trenerów #MON!"
+	line "trenerów #MON!"
 
-	para "Elitarni Trenerzy"
+	para "Elitarni trenerzy"
 	line "LIGI #MON są"
 	cont "gotowi stawić wam"
 	cont "czoła!"
@@ -437,14 +437,13 @@ _OakLabEmailText::
 	para "Przynieś najlepsze"
 	line "#MONY i zobacz,"
 	cont "jak wypadniesz"
-	cont "jako Trener!"
+	cont "jako trener!"
 
 	para "LIGA #MON"
 	line "BŁĘKITNY PŁASKOWYŻ"
 
 	para "PS: PROF.OAK,"
 	line "odwiedź nas!"
-	cont "..."
 	done
 
 _GameCornerCoinCaseText::
@@ -516,7 +515,7 @@ _ViridianSchoolNotebookText1::
 	para "Ludzie, którzy"
 	line "trenują #MONY"
 	cont "do walki, to"
-	cont "Trenerzy #MON."
+	cont "trenerzy #MON."
 	prompt
 
 _ViridianSchoolNotebookText2::
@@ -549,7 +548,7 @@ _ViridianSchoolNotebookText3::
 _ViridianSchoolNotebookText4::
 	text "Czwarta strona..."
 
-	para "Celem Trenera"
+	para "Celem trenera"
 	line "#MON jest"
 	cont "pokonanie ośmiu"
 	cont "LIDERÓW SAL"
@@ -577,15 +576,16 @@ _FightingDojoText::
 	done
 
 _IndigoPlateauHQText::
-	text "INDIGO PLATEAU"
-	line "#MON LEAGUE HQ"
+	text "BŁĘKITNY PŁASKOWYŻ"
+	line "LIGA #MON"
 	done
 
 _RedBedroomSNESText::
 	text "<PLAYER> gra na"
-	line "Super Nintendo!"
-	cont "...Okej!"
-	cont "Czas już w drogę!"
+	line "SUPER NINTENDO!"
+
+	para "...OK!"
+	line "Czas już w drogę!"
 	done
 
 _Route15UpstairsBinocularsText::
@@ -797,7 +797,7 @@ _IndigoPlateauStatuesText1::
 
 _IndigoPlateauStatuesText2::
 	text "Ostateczny cel"
-	line "Trenerów!"
+	line "trenerów!"
 	cont "LIGA #MON"
 	done
 
@@ -826,8 +826,8 @@ _TownMapText::
 	text_end
 
 _PokemonStuffText::
-	text "Łał! Tony rzeczy"
-	line "z #MONAMI!"
+	text "Łał! Tony rzeczy z"
+	line "#MONAMI!"
 	done
 
 _OutOfSafariBallsText::
@@ -947,13 +947,12 @@ _CantEscapeText::
 	prompt
 
 _NoRunningText::
-	text "Nie! Nie można"
-	line "uciec z walki z"
-	cont "Trenerem!"
+	text "Nie można uciec z"
+	line "walki z trenerem!"
 	prompt
 
 _GotAwayText::
-	text "Szybko, uciekaj!"
+	text "Udało się uciec!"
 	prompt
 
 _ItemsCantBeUsedHereText::
@@ -1396,7 +1395,7 @@ _PotionText::
 	text_start
 	line "odzyskuje @"
 	text_decimal wHPBarHPDifference, 2, 3
-	text "!"
+	text " HP!"
 	done
 
 _AntidoteText::
@@ -1459,7 +1458,7 @@ _AccessedBillsPCText::
 
 	para "Włączono System"
 	line "Przechowywania"
-	cont "#MON."
+	cont "#MONÓW."
 	prompt
 
 _AccessedSomeonesPCText::
@@ -1467,7 +1466,7 @@ _AccessedSomeonesPCText::
 
 	para "Włączono System"
 	line "Przechowywania"
-	cont "#MON."
+	cont "#MONÓW."
 	prompt
 
 _AccessedMyPCText::

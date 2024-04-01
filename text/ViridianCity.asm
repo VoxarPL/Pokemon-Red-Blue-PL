@@ -136,8 +136,9 @@ _ViridianCityOldManYouNeedToWeakenTheTargetText::
 
 _ViridianCitySignText::
 	text "WERTANIA"
-	line "Wiecznie Zielony"
-	cont "Raj"
+
+	para "Wiecznie Zielony"
+	line "Raj"
 	done
 
 _ViridianCityTrainerTips1Text::
