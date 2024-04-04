@@ -29,8 +29,7 @@ _MtMoonB2FSuperNerdTheyreBothMineText::
 	done
 
 _MtMoonB2FSuperNerdOkIllShareText::
-	text "OK!"
-	line "Podzielę się!"
+	text "OK! Podzielę się!"
 	prompt
 
 _MtMoonB2fSuperNerdEachTakeOneText::
@@ -43,7 +42,7 @@ _MtMoonB2FSuperNerdTheresAPokemonLabText::
 	text "Daleko stąd, na"
 	line "WYSPIE CINNABAR,"
 	cont "jest LABORATORIUM"
-	cont "#MON"
+	cont "#MON."
 
 	para "Prowadzą badania"
 	line "nad regeneracją"
@@ -59,11 +58,11 @@ _MtMoonB2FRocket1BattleText::
 	text "ZESPÓŁ R znajdzie"
 	line "skamieliny, ożywi"
 	cont "je i sprzeda za"
-	cont "gruba forsę!"
+	cont "grubą forsę!"
 	done
 
 _MtMoonB2FRocket1EndBattleText::
-	text "Urgh!"
+	text "Urch!"
 	line "Jestem wściekły!"
 	prompt
 

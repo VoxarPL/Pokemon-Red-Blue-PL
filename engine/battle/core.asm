@@ -2904,7 +2904,7 @@ PrintMenuItem:
 	jp Delay3
 
 DisabledText:
-	db "Wyłączony!@"
+	db "Wyłączony@"
 
 TypeText:
 	db "TYP@"

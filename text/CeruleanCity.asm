@@ -16,9 +16,8 @@ _CeruleanCityRivalPreBattleText::
 	done
 
 _CeruleanCityRivalDefeatedText::
-	text "Hej!"
-	line "Spokojnie!"
-	cont "Już wygrałeś!"
+	text "Hej! Spokojnie!"
+	line "Już wygrałeś!"
 	prompt
 
 _CeruleanCityRivalVictoryText::
@@ -54,7 +53,8 @@ _CeruleanCityRivalIWentToBillsText::
 
 	para "Cóż, będę już się"
 	line "zwijał!"
-	cont "Do zobaczenia!"
+
+	para "Do zobaczenia!"
 	done
 
 _CeruleanCityRocketText::
@@ -132,19 +132,20 @@ _CeruleanCityGuardText::
 
 	para "Nawet policja ma"
 	line "problemy z"
-	cont "ROCKETAMI"
+	cont "ROCKETAMI!"
 	done
 
 _CeruleanCityCooltrainerF1SlowbroUseSonicboomText::
 	text "OK! SLOWBRO!"
 	line "Użyj DŹWIĘKOGROMU!"
-	cont "No dalej, SLOWBRO,"
-	cont "skup się!"
+
+	para "No dalej, SLOWBRO,"
+	line "skup się!"
 	done
 
 _CeruleanCityCooltrainerF1SlowbroPunchText::
 	text "SLOWBRO,"
-	cont "UDERZENIE!"
+	line "UDERZENIE!"
 
 	para "Nie! Znowu"
 	cont "zawaliłeś!"
@@ -152,7 +153,7 @@ _CeruleanCityCooltrainerF1SlowbroPunchText::
 
 _CeruleanCityCooltrainerF1SlowbroWithdrawText::
 	text "SLOWBRO,"
-	cont "WYCOFANIE!"
+	line "WYCOFANIE!"
 
 	para "Nie! To nie tak!"
 
@@ -163,7 +164,7 @@ _CeruleanCityCooltrainerF1SlowbroWithdrawText::
 	line "#MONÓW zależy"
 	cont "od twoich"
 	cont "umiejętności jako"
-	cont "Trenera!"
+	cont "trenera!"
 	done
 
 _CeruleanCitySlowbroTookASnoozeText::
@@ -197,13 +198,14 @@ _CeruleanCityCooltrainerF2Text::
 
 _CeruleanCitySuperNerd3Text::
 	text "To jest JASKINIA"
-	line "AZURII! Żyją tam"
-	cont "strasznie silne"
-	cont "#MONY!"
+	line "AZURII!"
+
+	para "Żyją tam strasznie"
+	line "silne #MONY!"
 
 	para "Mistrz LIGI"
 	line "#MON to jedyna"
-	cont "osobo, która może"
+	cont "osoba, która może"
 	cont "tam wejść!"
 	done
 
@@ -227,7 +229,8 @@ _CeruleanCityTrainerTipsText::
 _CeruleanCityBikeShopSign::
 	text "Podróżowanie staje"
 	line "się łatwe!"
-	cont "SKLEP ROWEROWY"
+
+	para "SKLEP ROWEROWY"
 	done
 
 _CeruleanCityGymSign::

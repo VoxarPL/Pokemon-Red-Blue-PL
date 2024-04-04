@@ -189,8 +189,8 @@ _MoveWasDisabledText::
 	text "<TARGET>"
 	line "@"
 	text_ram wcd6d
-	text " został"
-	cont "wyłączony!"
+	text " "
+	cont "został wyłączony!"
 	prompt
 
 _NothingHappenedText::
