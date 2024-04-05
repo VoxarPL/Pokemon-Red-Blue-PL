@@ -23,18 +23,20 @@ _VermilionCityGambler1SSAnneDepartedText::
 	done
 
 _VermilionCitySailor1WelcomeToSSAnneText::
-	text "Witamy S.S.ANNA!"
+	text "Witamy na"
+	line "S.S.ANNA!"
 	done
 
 _VermilionCitySailor1DoYouHaveATicketText::
-	text "Witamy S.S.ANNA!"
+	text "Witamy na"
+	line "S.S.ANNA!"
 
 	para "Przepraszam, czy"
 	line "ma pan bilet?"
 	prompt
 
 _VermilionCitySailor1FlashedTicketText::
-	text "<PLAYER> pokazał"
+	text "<PLAYER> pokazuje"
 	line "BILET NA PROM!"
 
 	para "Świetnie! Witaj na"
@@ -87,8 +89,9 @@ _VermilionCitySailor2Text::
 
 _VermilionCitySignText::
 	text "ORANIA"
-	line "Port Przepięknych"
-	cont "Zachodów Słońca"
+
+	para "Port Przepięknych"
+	line "Zachodów Słońca"
 	done
 
 _VermilionCityNoticeSignText::

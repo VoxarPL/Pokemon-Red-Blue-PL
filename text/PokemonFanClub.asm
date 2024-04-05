@@ -87,9 +87,7 @@ _PokemonFanClubChairmanStoryText::
 
 _PokemonFanClubReceivedBikeVoucherText::
 	text "<PLAYER> otrzymuje"
-	line "@"
-	text_ram wStringBuffer
-	text "!@"
+	line "KUPON NA ROWER!@"
 	text_end
 
 _PokemonFanClubExplainBikeVoucherText::

@@ -4,8 +4,7 @@ _DaycareGentlemanAllRightThenText::
 	text_end
 
 _DaycareGentlemanComeAgainText::
-	text "Zapraszamy"
-	line "ponownie."
+	text "do zobaczenia."
 	done
 
 _DaycareGentlemanNoRoomForMonText::
@@ -31,5 +30,5 @@ _DaycareGentlemanHeresYourMonText::
 
 _DaycareGentlemanNotEnoughMoneyText::
 	text "Hej, masz za mało"
-	line "¥!"
+	line "pieniędzy!"
 	done
