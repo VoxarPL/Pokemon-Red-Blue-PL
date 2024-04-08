@@ -52,8 +52,7 @@ _Route9CooltrainerF2BattleText::
 	done
 
 _Route9CooltrainerF2EndBattleText::
-	text "Nie!"
-	line "Przesadziłeś!"
+	text "Nie! Przesadziłeś!"
 	prompt
 
 _Route9CooltrainerF2AfterBattleText::
@@ -142,12 +141,13 @@ _Route9Youngster2EndBattleText::
 
 _Route9Youngster2AfterBattleText::
 	text "Nie lubisz"
-	line "#MON robaków,"
+	line "#MONÓW robaków,"
 	cont "wkurzasz mnie!"
 	done
 
 _Route9SignText::
 	text "DROGA 9"
-	line "AZURIA -"
-	cont "KAMIENNY TUNEL"
+
+	para "AZURIA -"
+	line "KAMIENNY TUNEL"
 	done

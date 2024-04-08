@@ -1,12 +1,12 @@
 _RockTunnelB1FCooltrainerF1BattleText::
 	text "Wędrowcy rzucają"
 	line "gałązki, żeby nie"
-	cont "nie zgubić się."
+	cont "zgubić się."
 	done
 
 _RockTunnelB1FCooltrainerF1EndBattleText::
 	text "Ochhh!"
-	line "Starałem się!"
+	line "Starałam się!"
 	prompt
 
 _RockTunnelB1FCooltrainerF1AfterBattleText::
@@ -19,8 +19,7 @@ _RockTunnelB1FHiker1BattleText::
 	done
 
 _RockTunnelB1FHiker1EndBattleText::
-	text "Ups!"
-	line "Umięśniony!"
+	text "Ups! Umięśniony!"
 	prompt
 
 _RockTunnelB1FHiker1AfterBattleText::
@@ -85,8 +84,7 @@ _RockTunnelB1FCooltrainerF2BattleText::
 	done
 
 _RockTunnelB1FCooltrainerF2EndBattleText::
-	text "Och!"
-	line "Przegrałam!"
+	text "Och! Przegrałam!"
 	prompt
 
 _RockTunnelB1FCooltrainerF2AfterBattleText::

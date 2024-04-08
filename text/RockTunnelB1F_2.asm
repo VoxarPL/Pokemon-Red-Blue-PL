@@ -10,8 +10,7 @@ _RockTunnelB1FSuperNerd3BattleText::
 	done
 
 _RockTunnelB1FSuperNerd3EndBattleText::
-	text "Uff!"
-	line "Wyczerpujące!"
+	text "Uff! Wyczerpujące!"
 	prompt
 
 _RockTunnelB1FSuperNerd3AfterBattleText::

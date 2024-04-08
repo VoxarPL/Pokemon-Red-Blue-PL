@@ -9,12 +9,12 @@ _VermilionGymLTSurgePreBattleText::
 	para "Mówię ci, młody,"
 	line "elektryczne"
 	cont "#MONY uratowały"
-	cont "mnie podczas"
+	cont "mi skórę podczas"
 	cont "wojny!"
 
 	para "Sparaliżowali"
 	line "moich wrogów!"
 
-	para "To samo zrobię z"
+	para "To samo zrobią z"
 	line "tobą!"
 	done

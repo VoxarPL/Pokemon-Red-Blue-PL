@@ -64,7 +64,7 @@ _FellAsleepText::
 	prompt
 
 _AlreadyAsleepText::
-	text "<TARGET>'s"
+	text "<TARGET>"
 	line "już śpi!"
 	prompt
 
@@ -74,7 +74,7 @@ _PoisonedText::
 	prompt
 
 _BadlyPoisonedText::
-	text "<TARGET>'s"
+	text "<TARGET>"
 	line "poważnie zatruty!"
 	prompt
 
