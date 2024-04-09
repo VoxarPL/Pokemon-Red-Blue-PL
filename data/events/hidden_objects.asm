@@ -368,7 +368,7 @@ GameCornerHiddenObjects:
 	db -1 ; end
 
 CeladonHotelHiddenObjects:
-	hidden_object 13,  3, SPRITE_FACING_UP, OpenPokemonCenterPC
+	; hidden_object 13,  3, SPRITE_FACING_UP, OpenPokemonCenterPC
 	hidden_object  0,  4, SPRITE_FACING_LEFT, PrintBenchGuyText
 	db -1 ; end
 
@@ -561,17 +561,17 @@ ViridianCityHiddenObjects:
 	hidden_object 14,  4, POTION, HiddenItems
 	db -1 ; end
 
-SafariZoneRestHouse2HiddenObjects:
+SafariZoneRestHouse2HiddenObjects: ; sprawdzić
 	hidden_object  0,  4, SPRITE_FACING_LEFT, PrintBenchGuyText
 	hidden_object 13,  3, SPRITE_FACING_UP, OpenPokemonCenterPC
 	db -1 ; end
 
-SafariZoneRestHouse3HiddenObjects:
+SafariZoneRestHouse3HiddenObjects: ; sprawdzić
 	hidden_object  0,  4, SPRITE_FACING_LEFT, PrintBenchGuyText
 	hidden_object 13,  3, SPRITE_FACING_UP, OpenPokemonCenterPC
 	db -1 ; end
 
-SafariZoneRestHouse4HiddenObjects:
+SafariZoneRestHouse4HiddenObjects: ; sprawdzić
 	hidden_object  0,  4, SPRITE_FACING_LEFT, PrintBenchGuyText
 	hidden_object 13,  3, SPRITE_FACING_UP, OpenPokemonCenterPC
 	db -1 ; end
