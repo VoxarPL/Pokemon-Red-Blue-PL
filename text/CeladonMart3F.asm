@@ -55,7 +55,7 @@ _CeladonMart3FGameBoyKid3Text::
 	para "Hę?"
 
 	para "GRAVELER zmienił"
-	line "się w innnego"
+	line "się w innego"
 	cont "#MONA!"
 	done
 

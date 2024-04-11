@@ -1,8 +1,9 @@
 _SilphCo7FSilphWorkerM1HaveThisPokemonText::
-	text "Och! Cześć! Nie"
+	text "Och, cześć! Nie"
 	line "jesteś ROCKETEM!"
-	cont "Przyszedłeś nas"
-	cont "uratować?"
+
+	para "Przyszedłeś nas"
+	line "uratować?"
 	cont "Ależ dziękuję!"
 
 	para "Chcę, żebyś miał"
@@ -168,9 +169,9 @@ _SilphCo7FRivalWaitedHereText::
 	done
 
 _SilphCo7FRivalDefeatedText::
-	text "O ho! A więc"
-	line "jesteś gotowy na"
-	cont "SZEFA ROCKETÓW!"
+	text "Oho! A więc jesteś"
+	line "gotowy na SZEFA"
+	cont "ROCKETÓW!"
 	prompt
 
 _SilphCo7FRivalVictoryText::
@@ -204,6 +205,7 @@ _SilphCo7FRivalGoodLuckToYouText::
 
 	para "<PLAYER>, życzę ci"
 	line "powodzenia!"
-	cont "Nie przejmuj się!"
-	cont "Do zobaczenia!"
+
+	para "Nie przejmuj się!"
+	line "Do zobaczenia!"
 	done

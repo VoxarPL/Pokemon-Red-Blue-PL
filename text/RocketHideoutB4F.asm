@@ -60,7 +60,7 @@ _RocketHideoutB4FRocket1AfterBattleText::
 
 _RocketHideoutB4FRocket2BattleText::
 	text "Winda nie działa?"
-	line "Kto ma KLCUZ DO"
+	line "Kto ma KLUCZ DO"
 	cont "WINDY?"
 	done
 
@@ -70,5 +70,5 @@ _RocketHideoutB4FRocket2EndBattleText::
 
 _RocketHideoutB4FRocket2AfterBattleText::
 	text "O nie! Upuściłem"
-	line "KLCUZ DO WINDY!"
+	line "KLUCZ DO WINDY!"
 	done

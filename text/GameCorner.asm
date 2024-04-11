@@ -75,7 +75,7 @@ _GameCornerFishingGuruDontNeedMyCoinsText::
 
 _GameCornerFishingGuruWinsComeAndGoText::
 	text "Wygrana raz jest a"
-	line "raz jest nie."
+	line "raz nie jest."
 	done
 
 _GameCornerMiddleAgedWomanText::
@@ -93,7 +93,7 @@ _GameCornerGymGuideChampInMakingText::
 	para "ERIKA jest LIDERKĄ"
 	line "SALI w PRYZMANII!"
 	cont "Używa #MONÓW"
-	cont "typu Trawiastego!"
+	cont "typu trawiastego!"
 
 	para "Może wydawać się"
 	line "potulna, ale nie"
@@ -183,7 +183,7 @@ _GameCornerPosterSwitchBehindPosterText::
 	text "Hej!"
 
 	para "Za plakatem jest"
-	line "przełącznik!?"
+	line "przełącznik?!"
 	cont "Naciskamy!@"
 	text_end
 

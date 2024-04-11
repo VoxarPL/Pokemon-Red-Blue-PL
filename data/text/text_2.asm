@@ -85,8 +85,8 @@ _OutOfCoinsSlotMachineText::
 	done
 
 _BetHowManySlotMachineText::
-	text "Ile obstawiasz"
-	line "żetonów?"
+	text "Ile żetonów"
+	line "obstawiasz?"
 	done
 
 _StartSlotMachineText::
@@ -1251,8 +1251,8 @@ _TrainerWantsToFightText::
 
 _UnveiledGhostText::
 	text "SKANER SILPH"
-	line "ujawnił tożsamość"
-	cont "tożsamość DUCHA!"
+	line "ujawnia tożsamość"
+	cont "DUCHA!"
 	prompt
 
 _GhostCantBeIDdText::

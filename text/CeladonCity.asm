@@ -1,5 +1,5 @@
 _CeladonCityLittleGirlText::
-	text "Dostałem KOFFINGA"
+	text "Dostałam KOFFINGA"
 	line "na CINNABAR!"
 
 	para "Jest miły, ale"
@@ -108,8 +108,9 @@ _CeladonCityTrainerTips1Text::
 
 _CeladonCitySignText::
 	text "PRYZMANIA"
-	line "Miasto Tęczowych"
-	cont "Snów"
+
+	para "Miasto Tęczowych"
+	line "Snów"
 	done
 
 _CeladonCityGymSignText::
@@ -151,7 +152,8 @@ _CeladonCityTrainerTips2Text::
 _CeladonCityPrizeExchangeSignText::
 	text "Wymiana żetonów na"
 	line "nagrody!"
-	cont "WYMIANA NAGRÓD"
+
+	para "WYMIANA NAGRÓD"
 	done
 
 _CeladonCityGameCornerSignText::

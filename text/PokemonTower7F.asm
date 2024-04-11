@@ -1,5 +1,5 @@
 _PokemonTower7FMrFujiRescueText::
-	text "MR.FUJI: Che?"
+	text "PAN FUJI: Che?"
 	line "Przyszedłeś mnie"
 	cont "uratować?"
 
@@ -53,7 +53,7 @@ _PokemonTower7FRocket2EndBattleText::
 	prompt
 
 _PokemonTower7FRocket2AfterBattleText::
-	text "#MON służą"
+	text "#MONY służą"
 	line "tylko do"
 	cont "zarabiania forsy!"
 
