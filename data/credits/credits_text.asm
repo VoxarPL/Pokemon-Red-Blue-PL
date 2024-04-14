@@ -56,8 +56,8 @@ CreditsTextPointers:
 	dw CredHiNakamura
 	dw CredGiese
 	dw CredOsborne
-	dw CredTrans
-	dw CredOgasawara
+	dw CredPLVersion
+	dw CredVoxar
 	dw CredIwata
 	dw CredIzushi
 	dw CredHarada
@@ -69,10 +69,10 @@ CreditsTextPointers:
 
 CredVersion:
 IF DEF(_RED)
-	db -8, "RED VERSION STAFF@"
+	db -7, "WERSJA CZERWONA@"
 ENDC
 IF DEF(_BLUE)
-	db -8, "BLUE VERSION STAFF@"
+	db -7, "WERSJA NIEBIESKA@"
 ENDC
 CredTajiri:
 	db -6, "SATOSHI TAJIRI@"
@@ -131,35 +131,35 @@ CredYuda:
 CredMon:
 	db -3, "#MON@"
 CredDirector:
-	db -3, "DIRECTOR@"
+	db -3, "DYREKTOR@"
 CredProgrammers:
-	db -5, "PROGRAMMERS@"
+	db -5, "PROGRAMIŚCI@"
 CredCharDesign:
-	db -7, "CHARACTER DESIGN@"
+	db -7, "PROJEKT POSTACI@"
 CredMusic:
-	db -2, "MUSIC@"
+	db -2, "MUZYKA@"
 CredSoundEffects:
-	db -6, "SOUND EFFECTS@"
+	db -7, "EFEKTY DŹWIĘKOWE@"
 CredGameDesign:
-	db -5, "GAME DESIGN@"
+	db -5, "PROJEKT GRY@"
 CredMonsterDesign:
-	db -6, "MONSTER DESIGN@"
+	db -7, "PROJEKT STWORKÓW@"
 CredGameScene:
-	db -6, "GAME SCENARIO@"
+	db -6, "SCENARIUSZ GRY@"
 CredParam:
-	db -8, "PARAMETRIC DESIGN@"
+	db -8, "PROJEKT PARAMETRÓW@"
 CredMap:
-	db -4, "MAP DESIGN@"
+	db -5, "PROJEKT MAPY@"
 CredTest:
-	db -7, "PRODUCT TESTING@"
+	db -9, "TESTOWANIE PRODUKTU@"
 CredSpecial:
-	db -6, "SPECIAL THANKS@"
+	db -6, "PODZIĘKOWANIA@"
 CredProducers:
-	db -4, "PRODUCERS@"
+	db -4, "PRODUCENCI@"
 CredProducer:
-	db -4, "PRODUCER@"
+	db -4, "PRODUCENT@"
 CredExecutive:
-	db -8, "EXECUTIVE PRODUCER@"
+	db -9, "PRODUCENT WYKONAWCZY@"
 CredTamada:
 	db -6, "SOUSUKE TAMADA@"
 CredSaOota:
@@ -169,9 +169,9 @@ CredYoshikawa:
 CredToOota:
 	db -6, "TOMOMICHI OOTA@"
 CredUSStaff:
-	db -7, "US VERSION STAFF@"
+	db -8, "AUTORZY WERSJI US@"
 CredUSCoord:
-	db -7, "US COORDINATION@"
+	db -6, "KOORDYNACJA US@"
 CredTilden:
 	db -5, "GAIL TILDEN@"
 CredKawakami:
@@ -182,10 +182,10 @@ CredGiese:
 	db -6, "WILLIAM GIESE@"
 CredOsborne:
 	db -5, "SARA OSBORNE@"
-CredTrans:
-	db -7, "TEXT TRANSLATION@"
-CredOgasawara:
-	db -6, "NOB OGASAWARA@"
+CredPLVerison:
+	db -6, "WERSJA POLSKA@"
+CredVoxar:
+	db -2, "VOXAR@"
 CredIwata:
 	db -5, "SATORU IWATA@"
 CredIzushi:
