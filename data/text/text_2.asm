@@ -379,7 +379,8 @@ _CinnabarGymQuizCorrectText::
 	text "Masz absolutną"
 	line "rację!"
 
-	para "Przejdź przez!@"
+	para "Przejdź przez"
+	line "drzwi!@"
 	text_end
 
 _CinnabarGymQuizIncorrectText::

@@ -134,7 +134,7 @@ LoadTownMap_Nest:
 	ret
 
 MonsNestText:
-	db "'s NEST@"
+	db "@"
 
 LoadTownMap_Fly::
 	call ClearSprites
@@ -416,7 +416,7 @@ DisplayWildLocations:
 	jp CopyData
 
 AreaUnknownText:
-	db "OBSZ.NIEZNANY@"
+	db "OBSZAR NIEZNANY@"
 
 TownMapCoordsToOAMCoords:
 ; in: lower nybble of a = x, upper nybble of a = y

@@ -57,11 +57,11 @@ AnimateHallOfFame:
 	call HoFDisplayAndRecordMonInfo
 	ld c, 80
 	call DelayFrames
-	hlcoord 2, 13
+	hlcoord 3, 13
 	ld b, 3
-	ld c, 14
+	ld c, 12
 	call TextBoxBorder
-	hlcoord 4, 15
+	hlcoord 5, 15
 	ld de, HallOfFameText
 	call PlaceString
 	ld c, 180

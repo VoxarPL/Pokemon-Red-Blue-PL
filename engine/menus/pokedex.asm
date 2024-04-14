@@ -371,7 +371,7 @@ PokedexContentsText:
 PokedexMenuItemsText:
 	db   "DANE"
 	next "GŁOS"
-	next "OBSZ"
+	next "MAPA"
 	next "WRÓĆ@"
 
 ; tests if a pokemon's bit is set in the seen or owned pokemon bit fields

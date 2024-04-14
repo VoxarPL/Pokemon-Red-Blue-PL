@@ -10,7 +10,7 @@ _SafariZoneGateSafariZoneWorker1WouldYouLikeToJoinText::
 	cont "w parku!"
 
 	para "Chcesz dołączyć do"
-	line "polowania?@"
+	line "polowań?@"
 	text_end
 
 _SafariZoneGateSafariZoneWorker1ThatllBe500PleaseText::
@@ -21,7 +21,7 @@ _SafariZoneGateSafariZoneWorker1ThatllBe500PleaseText::
 	cont "BALLI."
 
 	para "<PLAYER> otrzymuje"
-	line "30 SAFARI BALLE!@"
+	line "30 SAFARI BALLI!@"
 	text_end
 
 _SafariZoneGateSafariZoneWorker1CallYouOnThePAText::
@@ -61,8 +61,9 @@ _SafariZoneGateSafariZoneWorker1GoodLuckText::
 _SafariZoneGateSafariZoneWorker1GoodHaulComeAgainText::
 	text "Udało się uzyskać"
 	line "dobry łup?"
-	cont "Zapraszamy"
-	cont "ponownie!"
+
+	para "Zapraszamy"
+	line "ponownie!"
 	done
 
 _SafariZoneGateSafariZoneWorker2FirstTimeHereText::
