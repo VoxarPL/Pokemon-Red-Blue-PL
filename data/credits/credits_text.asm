@@ -182,7 +182,7 @@ CredGiese:
 	db -6, "WILLIAM GIESE@"
 CredOsborne:
 	db -5, "SARA OSBORNE@"
-CredPLVerison:
+CredPLVersion:
 	db -6, "WERSJA POLSKA@"
 CredVoxar:
 	db -2, "VOXAR@"
