@@ -123,8 +123,8 @@ _ItemfinderFoundItemText::
 	prompt
 
 _ItemfinderFoundNothingText::
-	text "Nie! WYKRYWACZ"
-	line "nie odpowiada."
+	text "Nie! WYKRYWACZ nie"
+	line "odpowiada."
 	prompt
 
 _RaisePPWhichTechniqueText::

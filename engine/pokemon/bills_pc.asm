@@ -89,7 +89,7 @@ SomeonesPCText:   db "CZYJŚ PC@"
 BillsPCText:      db "PC BILLA@"
 PlayersPCText:    db " - PC@"
 OaksPCText:       db "PC PROF.OAKA@"
-PKMNLeaguePCText: db "LIGA <PKMN>@"
+PKMNLeaguePCText: db "LIGA #MON@"
 LogOffPCText:     db "WYLOGUJ@"
 
 BillsPC_::
@@ -121,7 +121,7 @@ BillsPCMenu:
 	call LoadScreenTilesFromBuffer2DisableBGTransfer
 	hlcoord 0, 0
 	ld b, 10
-	ld c, 12
+	ld c, 13
 	call TextBoxBorder
 	hlcoord 2, 2
 	ld de, BillsPCMenuText

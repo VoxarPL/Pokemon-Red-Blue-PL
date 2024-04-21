@@ -148,7 +148,7 @@ _CeruleanCityCooltrainerF1SlowbroPunchText::
 	line "UDERZENIE!"
 
 	para "Nie! Znowu"
-	cont "zawaliłeś!"
+	line "zawaliłeś!"
 	done
 
 _CeruleanCityCooltrainerF1SlowbroWithdrawText::

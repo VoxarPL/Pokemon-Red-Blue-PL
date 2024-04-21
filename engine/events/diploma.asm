@@ -91,7 +91,7 @@ ENDM
 
 DiplomaTextPointersAndCoords:
 	; x, y, text
-	diploma_text  5,  2, DiplomaText
+	diploma_text  6,  2, DiplomaText
 	diploma_text  3,  4, DiplomaPlayer
 	diploma_text 15,  4, DiplomaEmptyText
 	diploma_text  2,  6, DiplomaCongrats
@@ -101,7 +101,7 @@ DiplomaText:
 	db CIRCLE_TILE_ID, "Dyplom", CIRCLE_TILE_ID, "@"
 
 DiplomaPlayer:
-	db "Gracz@"
+	db "Gracz:@"
 
 DiplomaEmptyText:
 	db "@"
