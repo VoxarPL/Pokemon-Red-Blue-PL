@@ -26,7 +26,7 @@ _CinnabarGymBlainePostBattleAdviceText::
 	cont "ruch!"
 
 	para "Nie marnuj go na"
-	line "wodne #MON!"
+	line "wodne #MONY!"
 	done
 
 _CinnabarGymBlaineVolcanoBadgeInfoText::
@@ -162,7 +162,7 @@ _CinnabarGymSuperNerd6BattleText::
 	done
 
 _CinnabarGymSuperNerd6EndBattleText::
-	text "Jał! Za gorąca!"
+	text "Jał! Za gorąco!"
 	prompt
 
 _CinnabarGymSuperNerd6AfterBattleText::
@@ -178,8 +178,7 @@ _CinnabarGymSuperNerd7BattleText::
 	done
 
 _CinnabarGymSuperNerd7EndBattleText::
-	text "Och!"
-	line "Zgaszony!"
+	text "Och! Zgaszony!"
 	prompt
 
 _CinnabarGymSuperNerd7AfterBattleText::

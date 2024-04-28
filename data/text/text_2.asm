@@ -1,15 +1,16 @@
 _AIBattleWithdrawText::
 	text_ram wTrainerName
-	text " wyco-"
-	line "fuje @"
+	text_start
+	line "wycofuje"
+	cont "@"
 	text_ram wEnemyMonNick
 	text "!"
 	prompt
 
 _AIBattleUseItemText::
 	text_ram wTrainerName
-	text_start
-	line "używa @"
+	text " używa"
+	line "@"
 	text_ram wcd6d
 	text_start
 	cont "na @"
@@ -98,13 +99,13 @@ _NotEnoughCoinsSlotMachineText::
 	prompt
 
 _OneMoreGoSlotMachineText::
-	text "Spróbować jeszcze"
-	line "raz?"
+	text "Spróbować"
+	line "jeszcze raz?"
 	done
 
 _LinedUpText::
 	text " zebrane!"
-	line "Zdobyto @"
+	line "Masz @"
 	text_ram wStringBuffer
 	text " żetonów!"
 	done
@@ -475,8 +476,6 @@ _JustAMomentText::
 
 TMNotebookText::
 	text "To broszura o TM."
-
-	para "..."
 
 	para "W sumie jest 50"
 	line "TM."
