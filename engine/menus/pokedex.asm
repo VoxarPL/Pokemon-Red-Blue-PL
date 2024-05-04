@@ -175,7 +175,7 @@ HandlePokedexListMenu:
 	ld b, wPokedexSeenEnd - wPokedexSeen
 	call CountSetBits
 	ld de, wNumSetBits
-	hlcoord 16, 3
+	hlcoord 16, 2
 	lb bc, 1, 3
 	call PrintNumber ; print number of seen pokemon
 	ld hl, wPokedexOwned
@@ -185,11 +185,17 @@ HandlePokedexListMenu:
 	hlcoord 16, 6
 	lb bc, 1, 3
 	call PrintNumber ; print number of owned pokemon
-	hlcoord 16, 2
-	ld de, PokedexSeenText
+	hlcoord 16, 0
+	ld de, PokedexSeenText1
+	call PlaceString
+	hlcoord 16, 1
+	ld de, PokedexSeenText2
+	call PlaceString
+	hlcoord 16, 4
+	ld de, PokedexOwnText1
 	call PlaceString
 	hlcoord 16, 5
-	ld de, PokedexOwnText
+	ld de, PokedexOwnText2
 	call PlaceString
 	hlcoord 1, 1
 	ld de, PokedexContentsText
@@ -359,11 +365,17 @@ DrawPokedexVerticalLine:
 	jr nz, .loop
 	ret
 
-PokedexSeenText:
-	db "BYŁO@"
+PokedexSeenText1:
+	db "POZ-@"
 
-PokedexOwnText:
-	db "MAM@"
+PokedexSeenText2:
+	db "NANE@"
+
+PokedexOwnText1:
+	db "ZŁA-@"
+
+PokedexOwnText2:
+	db "PANE@"
 
 PokedexContentsText:
 	db "LISTA@"
