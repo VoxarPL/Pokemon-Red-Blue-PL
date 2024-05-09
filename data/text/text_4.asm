@@ -151,8 +151,8 @@ _ForgotAndText::
 	prompt
 
 _HMCantDeleteText::
-	text "Techniki HM nie"
-	line "można usunąć!"
+	text "Ruchu HM nie można"
+	line "usunąć!"
 	prompt
 
 _PokemonCenterWelcomeText::
@@ -170,8 +170,8 @@ _ShallWeHealYourPokemonText::
 	done
 
 _NeedYourPokemonText::
-	text "OK, weźmiemy"
-	line "twoje #MONY."
+	text "OK, weźmiemy twoje"
+	line "#MONY."
 	done
 
 _NoPokemon::

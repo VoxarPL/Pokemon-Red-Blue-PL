@@ -210,7 +210,7 @@ _OaksLabOakChooseMonText::
 	line "kazałem ci"
 	cont "przyjść! Poczekaj!"
 
-	para "Tutaj, <PLAYER>!"
+	para "Spójrz, <PLAYER>!"
 
 	para "Są tutaj 3"
 	line "#MONY!"

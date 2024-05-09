@@ -1,5 +1,5 @@
 _CeruleanCityRivalPreBattleText::
-	text "<RIVAL>: Joł!"
+	text "<RIVAL>: Joł,"
 	line "<PLAYER>!"
 
 	para "Wciąż zmagasz się"
@@ -211,8 +211,9 @@ _CeruleanCitySuperNerd3Text::
 
 _CeruleanCitySignText::
 	text "AZURIA"
-	line "Otacza Ją"
-	cont "Tajemnicza,"
+
+	para "Otacza Ją"
+	line "Tajemnicza,"
 	cont "Niebieska Aura"
 	done
 

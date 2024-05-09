@@ -985,7 +985,7 @@ _MultiHitText::
 	text "Trafia wroga"
 	line "@"
 	text_decimal wPlayerNumHits, 1, 1
-	text " raz(y)!"
+	text " razy!"
 	prompt
 
 _ScaredText::
@@ -1183,7 +1183,7 @@ _MirrorMoveFailedText::
 _HitXTimesText::
 	text "Trafia @"
 	text_decimal wEnemyNumHits, 1, 1
-	text " raz(y)!"
+	text " razy!"
 	prompt
 
 _GainedText::

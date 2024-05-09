@@ -13,8 +13,8 @@ Aby skonfigurować repozytorium, zobacz [**INSTALL.md**](INSTALL.md).
 ## Zobacz także
 
 - [**Pokemon-Yellow-PL**][pokeyellow-pl]
-- [**porered**][pret-red]
-- [**poreyellow**][pret-yellow]
+- [**pokered**][pret-red]
+- [**pokeyellow**][pret-yellow]
 
 [pokeyellow-pl]: https://github.com/VoxarPL/Pokemon-Yellow-PL
 [pret-red]: https://github.com/pret/pokered

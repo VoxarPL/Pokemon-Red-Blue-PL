@@ -344,7 +344,17 @@ ContinueText:
 
 NewGameText:
 	db   "NOWA GRA"
-	next "OPCJE@"
+	next "OPCJE"
+	next
+	next
+	next
+IF DEF(_RED)
+	next "#MON RED PL"
+ENDC
+IF DEF(_BLUE)
+	next "#MON BLUE PL"
+ENDC
+	next "v2.0@"
 
 CableClubOptionsText:
 	db   "WYMIANA"

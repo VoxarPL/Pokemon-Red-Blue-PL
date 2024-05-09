@@ -2,9 +2,8 @@ _VermilionGymLTSurgePreBattleText::
 	text "Hej, mały! Co ty"
 	line "tu niby robisz?"
 
-	para "Nie pożyjesz"
-	line "długo w walce!"
-	cont "To pewne!"
+	para "Nie pożyjesz długo"
+	line "w walce! To pewne!"
 
 	para "Mówię ci, młody,"
 	line "elektryczne"

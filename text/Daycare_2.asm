@@ -1,10 +1,10 @@
 _DaycareGentlemanAllRightThenText::
-	text "Dobrze więc,"
+	text "Dobrze więc."
 	line "@"
 	text_end
 
 _DaycareGentlemanComeAgainText::
-	text "do zobaczenia."
+	text "Do zobaczenia."
 	done
 
 _DaycareGentlemanNoRoomForMonText::
