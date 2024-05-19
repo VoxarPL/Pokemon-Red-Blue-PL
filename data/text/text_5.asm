@@ -33,7 +33,7 @@ _CyclingIsFunText::
 	prompt
 
 _FlashLightsAreaText::
-	text "FLASH rozświetla"
+	text "BŁYSK rozświetla"
 	line "cały obszar!"
 	prompt
 
