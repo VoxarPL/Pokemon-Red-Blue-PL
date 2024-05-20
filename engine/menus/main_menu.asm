@@ -354,7 +354,7 @@ ENDC
 IF DEF(_BLUE)
 	next "#MON BLUE PL"
 ENDC
-	next "v2.0@"
+	next "v2.0.1@"
 
 CableClubOptionsText:
 	db   "WYMIANA"
