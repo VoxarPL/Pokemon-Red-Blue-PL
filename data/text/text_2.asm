@@ -43,8 +43,8 @@ _TradeSendsText::
 
 _TradeWavesFarewellText::
 	text_ram wLinkEnemyTrainerName
-	text " fale"
-	line "pożegnalne"
+	text " macha"
+	line "na pożegnanie."
 	done
 
 _TradeTransferredText::
@@ -60,9 +60,9 @@ _TradeTakeCareText::
 	text "."
 	done
 
-_TradeWillTradeText:: ; sprawdź
+_TradeWillTradeText::
 	text_ram wLinkEnemyTrainerName
-	text " "
+	text_start
 	line "wymieni @"
 	text_ram wcd6d
 	text_start
@@ -477,8 +477,8 @@ _JustAMomentText::
 TMNotebookText::
 	text "To broszura o TM."
 
-	para "W sumie jest 50"
-	line "TM."
+	para "W sumie istnieje"
+	line "50 TM."
 
 	para "Istnieje także 5"
 	line "HM, których można"
@@ -636,7 +636,7 @@ _LinkCableInfoText1::
 
 _LinkCableInfoText2::
 	text "KOLOSEUM pozwala"
-	line "ci grać z"
+	line "ci zagrać z"
 	cont "przyjacielem."
 	prompt
 
@@ -664,8 +664,8 @@ _ViridianBlackboardSleepText::
 	cont "śpi!"
 
 	para "Będzie spał nawet"
-	line "nawet po"
-	cont "zakończonej walce."
+	line "po zakończonej"
+	cont "walce."
 
 	para "Użyj PRZEBUDZACZA,"
 	line "aby go obudzić!"
@@ -688,7 +688,7 @@ _ViridianBlackboardPrlzText::
 	line "że #MON czasem"
 	cont "nie trafia!"
 
-	para "Paraliż pozostaje"
+	para "Status pozostaje"
 	line "po walce."
 
 	para "Potraktuj go"
@@ -697,11 +697,11 @@ _ViridianBlackboardPrlzText::
 
 _ViridianBlackboardBurnText::
 	text "Oparzenie redukuje"
-	line "atak i szybkość."
-	cont "Stopniowo rani."
+	line "atak i szybkość"
+	cont "#MONA."
 
-	para "Oparzenie zostaje"
-	line "po walce."
+	para "Stopniowo rani i"
+	line "zostaje po walce."
 
 	para "Użyj LEKU OPARZEŃ,"
 	line "aby go wyleczyć!"
@@ -930,7 +930,7 @@ _TrainerAboutToUseText::
 
 _TrainerSentOutText::
 	text_ram wTrainerName
-	text " "
+	text_start
 	line "wysyła @"
 	text_ram wEnemyMonNick
 	text "!"
@@ -1029,9 +1029,9 @@ _MustRechargeText::
 	line "musi odpocząć!"
 	prompt
 
-_DisabledNoMoreText::
-	text "<USER>"
-	line "w pełni aktywny!"
+_DisabledNoMoreText:: ; wymyślić coś lepszego
+	text "Ruch został"
+	line "włączony!"
 	prompt
 
 _IsConfusedText::
@@ -1106,7 +1106,7 @@ _ExclamationPointText::
 
 _AttackMissedText::
 	text "<USER>"
-	line "atak spudłować!"
+	line "spudłował!"
 	prompt
 
 _KeptGoingAndCrashedText::
@@ -1131,13 +1131,13 @@ _OHKOText::
 
 _LoafingAroundText::
 	text_ram wBattleMonNick
-	text " "
+	text_start
 	line "wygłupia się."
 	prompt
 
 _BeganToNapText::
 	text_ram wBattleMonNick
-	text " "
+	text_start
 	line "zaczyna drzemkę!"
 	prompt
 
@@ -1166,12 +1166,12 @@ _SubstituteTookDamageText::
 	prompt
 
 _SubstituteBrokeText::
-	text "<TARGET>"
+	text "<TARGET> -"
 	line "ZASTĘPCA zaniknął!"
 	prompt
 
 _BuildingRageText::
-	text "<USER>"
+	text "<USER> -"
 	line "WŚCIEKŁOŚĆ rośnie!"
 	prompt
 
@@ -1396,8 +1396,8 @@ _IceHealText::
 
 _AwakeningText::
 	text_ram wcd6d
-	text_start
-	line "budzi się!"
+	text " budzi"
+	line "się!"
 	done
 
 _FullHealText::
@@ -1408,8 +1408,8 @@ _FullHealText::
 
 _ReviveText::
 	text_ram wcd6d
-	text_start
-	line "zostaje ocucony!"
+	text " zostaje"
+	line "ocucony!"
 	done
 
 _RareCandyText::
@@ -1469,7 +1469,7 @@ _DepositHowManyText::
 
 _ItemWasStoredText::
 	text_ram wcd6d
-	text " "
+	text " -"
 	line "przesłano do PC."
 	prompt
 
@@ -1492,7 +1492,7 @@ _WithdrawHowManyText::
 	done
 
 _WithdrewItemText::
-	text "Zabrano"
+	text "Zabrano przedmiot"
 	line "@"
 	text_ram wcd6d
 	text "."
@@ -1525,7 +1525,7 @@ _AccessedHoFPCText::
 	line "HALI SŁAWY."
 	prompt
 
-_SwitchOnText:: ; sprawdzić
+_SwitchOnText::
 	text "Przełącz!"
 	prompt
 
@@ -1541,7 +1541,7 @@ _DepositWhichMonText::
 _MonWasStoredText::
 	text_ram wStringBuffer
 	text " wysłany"
-	line "do Boxu @"
+	line "do Boxu nr @"
 	text_ram wBoxNumString
 	text "."
 	prompt
@@ -1659,18 +1659,18 @@ _AccessedOaksPCText::
 	prompt
 
 _WhereWouldYouLikeText::
-	text "Where would you"
-	line "like to go?"
+	text "Gdzie chcesz się"
+	line "udać?"
 	done
 
 _PleaseWaitText::
-	text "OK, please wait"
-	line "just a moment."
+	text "OK, poczekaj"
+	line "chwilę."
 	done
 
 _LinkCanceledText::
-	text "The link was"
-	line "canceled."
+	text "Anulowano"
+	line "połączenie."
 	done
 
 _OakSpeechText1::
@@ -1751,7 +1751,7 @@ _HisNameIsText::
 	cont "imię <RIVAL>!"
 	prompt
 
-_WillBeTradedText:: ; sprawdzić
+_WillBeTradedText::
 	text_ram wNameOfPlayerMonToBeTraded
 	text " i"
 	line "@"
@@ -1762,7 +1762,7 @@ _WillBeTradedText:: ; sprawdzić
 
 _TextIDErrorText::
 	text_decimal hSpriteIndexOrTextID, 1, 2
-	text " BŁĄD."
+	text " błąd."
 	done
 
 _ContCharText::

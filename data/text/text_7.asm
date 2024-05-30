@@ -108,11 +108,10 @@ _AfterTrade1Text::
 _WannaTrade2Text::
 	text "Cześć! Czy chcesz"
 	line "wymienić swojego"
-
-	para "@"
+	cont "@"
 	text_ram wInGameTradeGiveMonName
 	text_start
-	line "na @"
+	cont "na @"
 	text_ram wInGameTradeReceiveMonName
 	text "?"
 	done
@@ -175,7 +174,7 @@ _Thanks3Text::
 	done
 
 _AfterTrade3Text::
-	text "Jak tam mój stary"
+	text "Jak tam stary"
 	line "@"
 	text_ram wInGameTradeReceiveMonName
 	text "?"

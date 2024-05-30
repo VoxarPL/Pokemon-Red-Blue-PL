@@ -70,7 +70,7 @@ _SurfingNoPlaceToGetOffText::
 
 _VitaminStatRoseText::
 	text_ram wcd6d
-	text " "
+	text " -"
 	line "@"
 	text_ram wStringBuffer
 	text " rośnie."
@@ -129,24 +129,24 @@ _ItemfinderFoundNothingText::
 
 _RaisePPWhichTechniqueText::
 	text "Zwiększyć PP"
-	line "której techniki?"
+	line "którego ruchu?"
 	done
 
 _RestorePPWhichTechniqueText::
 	text "Przywrócić PP"
-	line "której techniki?"
+	line "którego ruchu?"
 	done
 
 _PPMaxedOutText::
 	text_ram wStringBuffer
-	text " PP"
+	text " - PP"
 	line "jest maksymalne."
 	prompt
 
 _PPIncreasedText::
 	text_ram wStringBuffer
-	text " PP"
-	line "zwiększono."
+	text " -"
+	line "zwiększono PP."
 	prompt
 
 _PPRestoredText::
@@ -218,10 +218,10 @@ _NoCyclingAllowedHereText::
 	prompt
 
 _NoSurfingHereText::
-	text "Nie SURFUJ na"
+	text "Nie SURFUJ tu na"
 	line "@"
 	text_ram wcd6d
-	text " tu!"
+	text "!"
 	prompt
 
 _BoxFullCannotThrowBallText::

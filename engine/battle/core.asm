@@ -2728,7 +2728,7 @@ MoveDisabledText:
 	text_end
 
 WhichTechniqueString:
-	db "KTÓRA TECHNIKA?@"
+	db "KTÓRY RUCH?@"
 
 SelectMenuItem_CursorUp:
 	ld a, [wCurrentMenuItem]
@@ -3878,10 +3878,6 @@ AttackMissedText:
 KeptGoingAndCrashedText:
 	text_far _KeptGoingAndCrashedText
 	text_end
-
-;UnaffectedText:
-;	text_far _UnaffectedText
-;	text_end
 
 PrintDoesntAffectText:
 	ld hl, DoesntAffectMonText

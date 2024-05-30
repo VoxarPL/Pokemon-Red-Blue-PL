@@ -111,7 +111,7 @@ _DidNotLearnText::
 
 _TryingToLearnText::
 	text_ram wLearnMoveMonName
-	text " "
+	text_start
 	line "próbuje poznać"
 	cont "@"
 	text_ram wStringBuffer
@@ -142,8 +142,8 @@ _ForgotAndText::
 	text_start
 	para "@"
 	text_ram wLearnMoveMonName
-	text " zapomina"
-	line "@"
+	text " nie zna"
+	line "już @"
 	text_ram wcd6d
 	text "!"
 
@@ -222,9 +222,6 @@ IF DEF(_RED_VC) || DEF(_BLUE_VC)
 	text "Zapraszamy"
 	line "ponownie!"
 	done
-	text_start
-	text "z powodu"
-	cont "braku aktywności."
 ELSE
 	text "Zakończono połą-"
 	line "czenie z powodu"
