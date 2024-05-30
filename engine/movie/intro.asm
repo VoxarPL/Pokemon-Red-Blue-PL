@@ -336,7 +336,7 @@ PlayShootingStar:
 	dec c
 	jr nz, .loop
 
-	ld c, 40
+	ld c, 80
 	call DelayFrames
 .next
 	ld a, BANK(Music_IntroBattle)
