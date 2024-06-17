@@ -62,5 +62,5 @@ _CeladonMansion3FGameScriptPCText::
 
 _CeladonMansion3FDevRoomSignText::
 	text "GAME FREAK"
-	line "Pokój Rozwoju"
+	line "Pokój Deweloperów"
 	done

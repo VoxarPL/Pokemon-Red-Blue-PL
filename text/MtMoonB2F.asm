@@ -62,8 +62,8 @@ _MtMoonB2FRocket1BattleText::
 	done
 
 _MtMoonB2FRocket1EndBattleText::
-	text "Urch!"
-	line "Jestem wściekły!"
+	text "Urch! Jestem"
+	line "wściekły!"
 	prompt
 
 _MtMoonB2FRocket1AfterBattleText::

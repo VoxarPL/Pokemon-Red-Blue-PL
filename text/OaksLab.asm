@@ -262,8 +262,9 @@ _OaksLabRivalReceivedMonText::
 _OaksLabRivalIllTakeYouOnText::
 	text "<RIVAL>: Zaczekaj,"
 	line "<PLAYER>!"
-	cont "Sprawdźmy nasze"
-	cont "#MONY!"
+
+	para "Sprawdźmy nasze"
+	line "#MONY!"
 
 	para "Dalej, przekonajmy"
 	line "się!"

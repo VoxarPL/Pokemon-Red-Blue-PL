@@ -4,14 +4,15 @@ _CeladonCityLittleGirlText::
 
 	para "Jest miły, ale"
 	line "oddycha trucizną,"
-	cont "Kiedy jest zły!"
+	cont "kiedy jest zły!"
 	done
 
 _CeladonCityGramps1Text::
 	text "Cheche! Ta SALA"
 	line "jest świetna!"
-	cont "Pełno w niej"
-	cont "kobiet!"
+
+	para "Pełno w niej"
+	line "kobiet!"
 	done
 
 _CeladonCityGirlText::

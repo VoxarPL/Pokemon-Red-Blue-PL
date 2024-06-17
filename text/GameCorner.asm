@@ -141,8 +141,9 @@ _GameCornerClerk2INeedMoreCoinsText::
 _GameCornerGentlemanThrowingMeOffText::
 	text "Hej, co?"
 	line "Zniechęcasz mnie!"
-	cont "Weź te żetony,"
-	cont "sio!"
+
+	para "Weź te żetony,"
+	line "sio!"
 	prompt
 
 _GameCornerGentlemanReceived20CoinsText::
@@ -175,8 +176,9 @@ _GameCornerRocketBattleEndText::
 _GameCornerRocketAfterBattleText::
 	text "Nasza kryjówka"
 	line "została odkryta!"
-	cont "Lepiej powiadomię"
-	cont "SZEFA!"
+
+	para "Lepiej powiadomię"
+	line "SZEFA!"
 	done
 
 _GameCornerPosterSwitchBehindPosterText::
