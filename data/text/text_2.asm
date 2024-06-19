@@ -1753,11 +1753,11 @@ _HisNameIsText::
 
 _WillBeTradedText::
 	text_ram wNameOfPlayerMonToBeTraded
-	text " i"
+	text " oraz"
 	line "@"
 	text_ram wcd6d
-	text " będą"
-	cont "się wymieniać."
+	text " zostaną"
+	cont "wymienieni."
 	done
 
 _TextIDErrorText::

@@ -354,7 +354,7 @@ ENDC
 IF DEF(_BLUE)
 	next "#MON BLUE PL"
 ENDC
-	next "v2.0.2@"
+	next "v2.0.3@"
 
 CableClubOptionsText:
 	db   "WYMIANA"
@@ -443,8 +443,8 @@ PrintPlayTime:
 
 SaveScreenInfoText:
 	db   "GRACZ"
-	next "ODZNAKI   "
-	next "#DEX    "
+	next "ODZNAKI"
+	next "#DEX"
 	next "CZAS@"
 
 DisplayOptionMenu:
